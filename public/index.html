@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>LinkedIn Job Tracker</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; min-height: 100vh; }
+
+  /* ── Header ── */
+  .header { background: #1e293b; border-bottom: 1px solid #334155; padding: 14px 24px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .header h1 { font-size: 1.25rem; font-weight: 700; color: #f1f5f9; flex: 1; }
+  .header h1 span { color: #3b82f6; }
+
+  /* ── Stats bar ── */
+  .stats { display: flex; gap: 12px; flex-wrap: wrap; padding: 16px 24px; background: #1e293b; border-bottom: 1px solid #334155; }
+  .stat { background: #0f172a; border: 1px solid #334155; border-radius: 10px; padding: 10px 18px; text-align: center; min-width: 90px; }
+  .stat-num { font-size: 1.6rem; font-weight: 800; line-height: 1; }
+  .stat-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: .05em; color: #94a3b8; margin-top: 2px; }
+  .stat.total .stat-num { color: #e2e8f0; }
+  .stat.pending .stat-num { color: #f59e0b; }
+  .stat.applied .stat-num { color: #22c55e; }
+  .stat.skipped .stat-num { color: #64748b; }
+
+  /* ── Controls ── */
+  .controls { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; padding: 14px 24px; background: #1e293b; border-bottom: 1px solid #334155; }
+  .apify-row { display: flex; gap: 8px; align-items: center; flex: 1; min-width: 260px; }
+  .apify-row input { flex: 1; background: #0f172a; border: 1px solid #475569; border-radius: 8px; color: #e2e8f0; padding: 8px 12px; font-size: 0.875rem; outline: none; }
+  .apify-row input:focus { border-color: #3b82f6; }
+  .apify-row input::placeholder { color: #64748b; }
+  .btn { border: none; border-radius: 8px; padding: 8px 16px; font-size: 0.875rem; font-weight: 600; cursor: pointer; transition: opacity .15s; white-space: nowrap; }
+  .btn:hover { opacity: .85; }
+  .btn:disabled { opacity: .45; cursor: not-allowed; }
+  .btn-blue { background: #3b82f6; color: #fff; }
+  .btn-red { background: #ef4444; color: #fff; }
+  .btn-slate { background: #475569; color: #e2e8f0; }
+
+  /* ── Filter tabs ── */
+  .filter-row { display: flex; gap: 6px; padding: 12px 24px; background: #1e293b; border-bottom: 1px solid #334155; flex-wrap: wrap; align-items: center; }
+  .filter-row .search { flex: 1; min-width: 180px; background: #0f172a; border: 1px solid #475569; border-radius: 8px; color: #e2e8f0; padding: 7px 12px; font-size: 0.875rem; outline: none; }
+  .filter-row .search:focus { border-color: #3b82f6; }
+  .tab { border: 1px solid #334155; border-radius: 20px; padding: 5px 14px; font-size: 0.8rem; font-weight: 600; cursor: pointer; background: transparent; color: #94a3b8; transition: all .15s; }
+  .tab.active { background: #3b82f6; border-color: #3b82f6; color: #fff; }
+  .tab:hover:not(.active) { border-color: #64748b; color: #e2e8f0; }
+
+  /* ── Job list ── */
+  .job-list { padding: 16px 24px; display: flex; flex-direction: column; gap: 10px; }
+
+  .job-card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 16px; display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start; transition: border-color .15s; }
+  .job-card:hover { border-color: #475569; }
+  .job-card.applied { border-left: 3px solid #22c55e; }
+  .job-card.skipped { border-left: 3px solid #475569; opacity: .65; }
+  .job-card.pending { border-left: 3px solid #f59e0b; }
+
+  .job-info {}
+  .job-title { font-size: 1rem; font-weight: 700; color: #f1f5f9; margin-bottom: 4px; }
+  .job-meta { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .job-company { color: #3b82f6; font-weight: 600; font-size: 0.875rem; }
+  .job-location { color: #94a3b8; font-size: 0.8rem; }
+  .job-posted { color: #64748b; font-size: 0.75rem; }
+  .job-desc { color: #94a3b8; font-size: 0.8rem; line-height: 1.5; max-height: 60px; overflow: hidden; position: relative; }
+  .job-desc.expanded { max-height: none; }
+  .job-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+  .badge { font-size: 0.7rem; font-weight: 600; padding: 2px 8px; border-radius: 10px; }
+  .badge-easy { background: #164e63; color: #67e8f9; }
+  .badge-applied { background: #14532d; color: #86efac; }
+  .badge-skipped { background: #1e293b; color: #64748b; border: 1px solid #475569; }
+  .badge-pending { background: #78350f; color: #fcd34d; }
+  .applied-date { font-size: 0.7rem; color: #22c55e; margin-top: 4px; }
+  .skipped-date { font-size: 0.7rem; color: #64748b; margin-top: 4px; }
+
+  .job-actions { display: flex; flex-direction: column; gap: 6px; min-width: 120px; align-items: flex-end; }
+  .btn-apply { background: #1d4ed8; color: #fff; border: none; border-radius: 8px; padding: 7px 14px; font-size: 0.8rem; font-weight: 700; cursor: pointer; text-decoration: none; display: inline-block; text-align: center; }
+  .btn-apply:hover { background: #2563eb; }
+  .btn-sm { border: 1px solid #475569; border-radius: 6px; padding: 5px 10px; font-size: 0.75rem; font-weight: 600; cursor: pointer; background: transparent; color: #94a3b8; transition: all .15s; white-space: nowrap; }
+  .btn-sm:hover { background: #334155; color: #e2e8f0; }
+  .btn-sm.mark-applied { border-color: #22c55e; color: #22c55e; }
+  .btn-sm.mark-applied:hover { background: #14532d; }
+  .btn-sm.mark-skip { border-color: #475569; }
+  .btn-sm.undo { border-color: #f59e0b; color: #f59e0b; }
+  .btn-sm.undo:hover { background: #78350f; }
+
+  /* ── Empty / Loading ── */
+  .empty { text-align: center; padding: 60px 24px; color: #475569; }
+  .empty h3 { font-size: 1.2rem; margin-bottom: 8px; color: #64748b; }
+  .spinner { display: inline-block; width: 22px; height: 22px; border: 3px solid #334155; border-top-color: #3b82f6; border-radius: 50%; animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .toast { position: fixed; bottom: 24px; right: 24px; background: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 12px 20px; font-size: 0.875rem; z-index: 999; box-shadow: 0 8px 32px #0008; opacity: 0; transition: opacity .3s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+  .toast.success { border-color: #22c55e; color: #86efac; }
+  .toast.error { border-color: #ef4444; color: #fca5a5; }
+  .toast.info { border-color: #3b82f6; color: #93c5fd; }
+
+  @media (max-width: 600px) {
+    .job-card { grid-template-columns: 1fr; }
+    .job-actions { flex-direction: row; flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🔍 LinkedIn Job <span>Tracker</span></h1>
+</div>
+
+<div class="stats" id="stats">
+  <div class="stat total"><div class="stat-num" id="s-total">–</div><div class="stat-label">Total</div></div>
+  <div class="stat pending"><div class="stat-num" id="s-pending">–</div><div class="stat-label">Pending</div></div>
+  <div class="stat applied"><div class="stat-num" id="s-applied">–</div><div class="stat-label">Applied</div></div>
+  <div class="stat skipped"><div class="stat-num" id="s-skipped">–</div><div class="stat-label">Skipped</div></div>
+</div>
+
+<div class="controls">
+  <div class="apify-row">
+    <input type="password" id="apify-key" placeholder="Apify API Key (apify_api_...)" autocomplete="off" />
+    <button class="btn btn-blue" id="btn-fetch" onclick="fetchJobs()">⬇ Fetch Jobs</button>
+  </div>
+  <button class="btn btn-slate" onclick="loadJobs()">🔄 Refresh</button>
+  <button class="btn btn-red" onclick="clearAll()">🗑 Clear All</button>
+</div>
+
+<div class="filter-row">
+  <input type="text" class="search" id="search" placeholder="Search title, company, location..." oninput="render()" />
+  <button class="tab active" data-filter="all" onclick="setFilter('all')">All</button>
+  <button class="tab" data-filter="pending" onclick="setFilter('pending')">⏳ Pending</button>
+  <button class="tab" data-filter="applied" onclick="setFilter('applied')">✅ Applied</button>
+  <button class="tab" data-filter="skipped" onclick="setFilter('skipped')">⏭ Skipped</button>
+</div>
+
+<div class="job-list" id="job-list"></div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+let allJobs = [];
+let filter = 'all';
+
+// ── Load saved API key ──────────────────────────────────────────────────────
+window.addEventListener('DOMContentLoaded', () => {
+  const saved = localStorage.getItem('apify_key');
+  if (saved) document.getElementById('apify-key').value = saved;
+  loadJobs();
+});
+
+function setFilter(f) {
+  filter = f;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.filter === f));
+  render();
+}
+
+// ── API calls ──────────────────────────────────────────────────────────────
+async function loadJobs() {
+  try {
+    const res = await fetch('/api/jobs');
+    allJobs = await res.json();
+    await loadStats();
+    render();
+  } catch (e) { toast('Failed to load jobs', 'error'); }
+}
+
+async function loadStats() {
+  try {
+    const res = await fetch('/api/stats');
+    const s = await res.json();
+    document.getElementById('s-total').textContent = s.total;
+    document.getElementById('s-pending').textContent = s.pending;
+    document.getElementById('s-applied').textContent = s.applied;
+    document.getElementById('s-skipped').textContent = s.skipped;
+  } catch {}
+}
+
+async function fetchJobs() {
+  const key = document.getElementById('apify-key').value.trim();
+  if (!key) { toast('Enter your Apify API key first', 'error'); return; }
+  localStorage.setItem('apify_key', key);
+
+  const btn = document.getElementById('btn-fetch');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span> Fetching...';
+  toast('Fetching jobs from LinkedIn via Apify... (this takes ~2 min)', 'info');
+
+  try {
+    const res = await fetch('/api/fetch-jobs', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ apiKey: key }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error);
+    toast(`✅ Done! Added ${data.added} new jobs (${data.total} total)`, 'success');
+    await loadJobs();
+  } catch (e) {
+    toast('Error: ' + e.message, 'error');
+  } finally {
+    btn.disabled = false;
+    btn.innerHTML = '⬇ Fetch Jobs';
+  }
+}
+
+async function setStatus(id, status) {
+  await fetch('/api/status', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ id, status }),
+  });
+  const job = allJobs.find(j => j.id === id);
+  if (job) job.status = status;
+  if (status === 'applied') { job.appliedAt = new Date().toISOString(); toast('Marked as Applied ✅', 'success'); }
+  else if (status === 'skipped') { toast('Marked as Skipped ⏭', 'info'); }
+  else { toast('Moved back to Pending', 'info'); }
+  await loadStats();
+  render();
+}
+
+async function clearAll() {
+  if (!confirm('Clear ALL jobs and tracking data? This cannot be undone.')) return;
+  await fetch('/api/jobs', { method: 'DELETE' });
+  allJobs = [];
+  await loadStats();
+  render();
+  toast('All data cleared', 'info');
+}
+
+// ── Render ──────────────────────────────────────────────────────────────────
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const list = document.getElementById('job-list');
+
+  let jobs = allJobs;
+  if (filter !== 'all') jobs = jobs.filter(j => j.status === filter);
+  if (q) jobs = jobs.filter(j =>
+    (j.title + j.company + j.location + j.description).toLowerCase().includes(q)
+  );
+
+  if (!jobs.length) {
+    list.innerHTML = `<div class="empty"><h3>${allJobs.length === 0 ? 'No jobs yet' : 'No jobs match'}</h3><p>${allJobs.length === 0 ? 'Enter your Apify key and click "Fetch Jobs" to load LinkedIn jobs.' : 'Try a different filter or search term.'}</p></div>`;
+    return;
+  }
+
+  list.innerHTML = jobs.map(j => {
+    const url = j.applyUrl || j.linkedinUrl || '#';
+    const postedDate = j.postedAt ? new Date(j.postedAt).toLocaleDateString('en-IN', { day:'numeric', month:'short' }) : '';
+    const appliedDate = j.appliedAt ? new Date(j.appliedAt).toLocaleDateString('en-IN', { day:'numeric', month:'short', year:'numeric' }) : '';
+
+    const actionBtns = j.status === 'pending' ? `
+      <a class="btn-apply" href="${escHtml(url)}" target="_blank" rel="noopener">🔗 Apply</a>
+      <button class="btn-sm mark-applied" onclick="setStatus('${escId(j.id)}', 'applied')">✅ Applied</button>
+      <button class="btn-sm mark-skip" onclick="setStatus('${escId(j.id)}', 'skipped')">⏭ Skip</button>
+    ` : j.status === 'applied' ? `
+      <a class="btn-apply" href="${escHtml(url)}" target="_blank" rel="noopener">🔗 Open</a>
+      <button class="btn-sm undo" onclick="setStatus('${escId(j.id)}', 'pending')">↩ Undo</button>
+    ` : `
+      <a class="btn-apply" href="${escHtml(url)}" target="_blank" rel="noopener">🔗 Open</a>
+      <button class="btn-sm mark-applied" onclick="setStatus('${escId(j.id)}', 'applied')">✅ Applied</button>
+      <button class="btn-sm undo" onclick="setStatus('${escId(j.id)}', 'pending')">↩ Pending</button>
+    `;
+
+    const statusDate = j.status === 'applied'
+      ? `<div class="applied-date">Applied: ${appliedDate}</div>`
+      : j.status === 'skipped'
+      ? `<div class="skipped-date">Skipped</div>`
+      : '';
+
+    return `
+    <div class="job-card ${j.status}">
+      <div class="job-info">
+        <div class="job-title">${escHtml(j.title)}</div>
+        <div class="job-meta">
+          <span class="job-company">${escHtml(j.company)}</span>
+          <span class="job-location">📍 ${escHtml(j.location)}</span>
+          ${postedDate ? `<span class="job-posted">🕐 ${postedDate}</span>` : ''}
+        </div>
+        ${j.description ? `<div class="job-desc">${escHtml(j.description.substring(0,200))}${j.description.length>200?'...':''}</div>` : ''}
+        <div class="job-badges">
+          <span class="badge badge-${j.status}">${j.status.toUpperCase()}</span>
+          ${j.easyApply ? '<span class="badge badge-easy">⚡ Easy Apply</span>' : ''}
+        </div>
+        ${statusDate}
+      </div>
+      <div class="job-actions">${actionBtns}</div>
+    </div>`;
+  }).join('');
+}
+
+// ── Toast ───────────────────────────────────────────────────────────────────
+function toast(msg, type = 'info') {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.className = `toast show ${type}`;
+  clearTimeout(el._t);
+  el._t = setTimeout(() => el.classList.remove('show'), 3500);
+}
+
+function escHtml(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escId(s) {
+  return String(s || '').replace(/'/g, "\\'");
+}
+</script>
+</body>
+</html>
