@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Manoj Ambati - Resume</title>
+<style>
+  @page {
+    size: A4;
+    margin: 0.4in 0.5in;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Calibri", "Arial", sans-serif;
+    font-size: 10pt;
+    line-height: 1.22;
+    color: #000;
+  }
+  header {
+    text-align: center;
+    margin-bottom: 4px;
+  }
+  h1 {
+    font-size: 18pt;
+    margin: 0 0 1px 0;
+    letter-spacing: 1px;
+    font-weight: 700;
+  }
+  .contact {
+    font-size: 9.5pt;
+    margin: 0;
+  }
+  .contact a { color: #0563C1; text-decoration: none; }
+  .contact a:hover { text-decoration: underline; }
+  h2 {
+    font-size: 10.5pt;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    margin: 6px 0 2px 0;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #000;
+  }
+  p { margin: 1px 0; }
+  ul {
+    margin: 1px 0 2px 0;
+    padding-left: 16px;
+  }
+  li {
+    margin-bottom: 1px;
+  }
+  .role-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 2px;
+  }
+  .role-title { font-weight: 700; }
+  .role-meta { font-style: italic; font-size: 9.5pt; }
+  .skills p { margin: 1px 0; }
+  .skill-label { font-weight: 700; }
+  .summary { margin: 0; text-align: justify; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>MANOJ AMBATI</h1>
+  <p class="contact">
+    <a href="mailto:ambatimanoj2469@gmail.com">ambatimanoj2469@gmail.com</a> &nbsp;|&nbsp; +91 9347946872 &nbsp;|&nbsp; Hyderabad, India &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/manojambati2469/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/manoj-voltuswave">GitHub</a>
+  </p>
+</header>
+
+<h2>Summary</h2>
+<p class="summary">
+  Full Stack Developer with 2+ years building and shipping scalable web applications using React, TypeScript, Node.js, Express, and MySQL. End-to-end ownership across SDLC: REST API design, JWT/OAuth authentication, Docker containerization, CI/CD automation with GitHub Actions, and AWS cloud deployment. Experienced integrating third-party and AI APIs (Google Gemini, Yahoo Finance) to deliver data-driven, high-performance user experiences.
+</p>
+
+<h2>Technical Skills</h2>
+<div class="skills">
+  <p><span class="skill-label">Languages:</span> TypeScript, JavaScript (ES6+), Python (Basics), SQL, HTML5, CSS3</p>
+  <p><span class="skill-label">Frontend:</span> React.js, React Router, React Hook Form, Zod, Tailwind CSS, Shadcn UI, Vite, Responsive Design</p>
+  <p><span class="skill-label">Backend:</span> Node.js, Express.js, REST APIs, JWT Authentication, Role-Based Access Control (RBAC), Microservices</p>
+  <p><span class="skill-label">Database:</span> MySQL, Database Design, Query Optimization</p>
+  <p><span class="skill-label">Cloud &amp; DevOps:</span> AWS (Cognito, EC2), Docker, GitHub Actions, CI/CD, Render, Railway</p>
+  <p><span class="skill-label">APIs &amp; AI:</span> Google Gemini API, Yahoo Finance API, Model Context Protocol (MCP), Third-Party API Integration</p>
+  <p><span class="skill-label">Tools &amp; Practices:</span> Git, GitHub, Jira, Postman, VS Code, MCP Tools (GitHub, Jira), Agile, SDLC, Code Reviews</p>
+</div>
+
+<h2>Work Experience</h2>
+<div class="role-row">
+  <span class="role-title">Full Stack Developer &mdash; Voltuswave Technologies India Pvt. Ltd.</span>
+  <span class="role-meta">Feb 2024 &ndash; Present &nbsp;|&nbsp; Hyderabad, India</span>
+</div>
+<ul>
+  <li>Build and maintain full-stack web applications with React (TypeScript), Node.js, Express, and MySQL across the full SDLC &mdash; owning reusable UI components, REST API design, and database modeling.</li>
+  <li>Containerize services with Docker and deploy on AWS, ensuring environment parity, high availability, and reliable production releases.</li>
+  <li>Automate build, test, and deployment with GitHub Actions CI/CD pipelines, eliminating manual release steps and reducing deployment errors.</li>
+  <li>Debug production incidents and implement performance optimizations (lazy loading, caching, query tuning), improving responsiveness and reducing load times.</li>
+  <li>Collaborate in Agile sprints with cross-functional teams, conducting code reviews and translating business requirements into shipped features.</li>
+</ul>
+
+<h2>Projects</h2>
+<div class="role-row">
+  <span class="role-title">Voltusfreight &mdash; Multi-Tenant Freight Forwarding Platform</span>
+  <span class="role-meta">React, TypeScript, Node.js, MySQL, AWS Cognito</span>
+</div>
+<ul>
+  <li>Architected end-to-end authentication and authorization (signup, login, RBAC) with AWS Cognito, enabling secure token management and tenant-isolated data access.</li>
+  <li>Built user activity tracking capturing post-login actions, session duration, and behavioral patterns; surfaced insights via admin dashboard with real-time analytics.</li>
+  <li>Designed and developed responsive UI screens and reusable components with React, TypeScript, Tailwind CSS, and Shadcn UI, accelerating delivery of new tenant-facing modules.</li>
+  <li>Built RESTful APIs with Node.js and Express for shipment, quote, and document workflows; modeled MySQL schemas with tenant-scoped queries to enforce strict data isolation.</li>
+  <li>Containerized services with Docker and deployed to AWS, automating builds, tests, and zero-downtime releases through GitHub Actions CI/CD pipelines.</li>
+</ul>
+
+<div class="role-row">
+  <span class="role-title">StockPuls &mdash; AI-Powered Investment Tracker (NSE/BSE)</span>
+  <span class="role-meta">React, TypeScript, Node.js, Express, MySQL, Tailwind CSS, Gemini API</span>
+</div>
+<ul>
+  <li>Built a full-stack platform for Indian equities with portfolio management, watchlists, real-time quotes, interactive charts, and AI-generated BUY/HOLD/SELL recommendations with confidence scores.</li>
+  <li>Integrated Google Gemini API for per-stock and portfolio-level analyses; persisted results in MySQL and reused them across sessions to eliminate redundant AI calls and reduce API spend.</li>
+  <li>Integrated Yahoo Finance APIs (crumb-cookie workflow, quoteSummary, fundamentals-timeseries, chart v8) to deliver live quotes, income statements, financial ratios, and categorized fundamentals.</li>
+  <li>Designed a centralized React Context with multi-dimensional per-symbol caching, preserving user state across navigation and removing duplicate API calls.</li>
+  <li>Implemented JWT authentication with React Hook Form + Zod validation, protected routes, and Axios interceptors for 401 handling and token refresh.</li>
+  <li>Optimized bundle size with React.lazy and Suspense across pages and heavy components; deployed frontend and backend on Render with MySQL on Railway.</li>
+</ul>
+
+<h2>Education</h2>
+<div class="role-row">
+  <span class="role-title">Full Stack Development &mdash; Nxtwave Disruptive Technologies</span>
+  <span class="role-meta">Hyderabad &nbsp;|&nbsp; Jan 2024</span>
+</div>
+<div class="role-row">
+  <span class="role-title">B.E. Civil Engineering &mdash; Chaitanya Bharathi Institute of Technology (CBIT)</span>
+  <span class="role-meta">Hyderabad &nbsp;|&nbsp; May 2023</span>
+</div>
+
+</body>
+</html>
