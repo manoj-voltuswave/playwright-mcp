@@ -1,73 +1,105 @@
-# LinkedIn Job Auto-Apply Bot
+# LinkedIn & Naukri Job Auto-Apply Bot
 
-Automates applying to LinkedIn jobs using Playwright MCP (Model Context Protocol) with Claude Code.
+Automates applying to **LinkedIn** and **Naukri** jobs using the [Playwright MCP](https://github.com/microsoft/playwright-mcp) server with Claude Code.
+
+There is no automation script in this repo. Claude Code drives the browser through the Playwright MCP tools, following the prompt templates in [`prompts/`](prompts/). You paste a prompt (or just say "apply on linkedin" / "apply on naukri") and Claude takes over.
 
 ## Prerequisites
 
 - Node.js v18+
-- Claude Code CLI installed
+- [Claude Code](https://docs.claude.com/en/docs/claude-code) CLI installed
+- A LinkedIn account and/or a Naukri account with a complete profile and uploaded resume
 
 ## Setup
 
-1. Clone the repo and install dependencies:
+1. Install dependencies and Playwright browsers:
    ```bash
-   git clone <repo-url>
-   cd playwright-mcp
    npm install
+   npx playwright install chromium
    ```
 
-2. Install Playwright browsers:
+2. Create a `.env` file from the template:
    ```bash
-   npx playwright install
+   cp .env.example .env
    ```
-
-3. Create a `.env` file with your credentials:
+   Then fill in your credentials:
    ```
    LINKEDIN_EMAIL=your-email@gmail.com
    LINKEDIN_PASSWORD=your-password
+   NAUKRI_EMAIL=your-email@gmail.com
+   NAUKRI_PASSWORD=your-password
    ```
 
-4. Place your resume PDF in the project root (e.g., `Manoj_Ambati_Resume.pdf`).
+3. Place your resume PDF in the project root (e.g. `Manoj_Ambati_Resume_2026.pdf`). The prompts reference this filename — update them if you rename it.
 
-## How to Run
-
-1. Start Claude Code with the Playwright MCP server:
+4. Create your candidate-facts file from the template (this is the data Claude uses to answer screening questions — years per skill, CTC, notice period, DOB, etc.):
    ```bash
-   claude --mcp-server playwright-mcp
+   cp prompts/candidate-facts.example.md prompts/candidate-facts.md
    ```
-   Or configure it in your Claude Code MCP settings (`~/.claude/settings.json`):
-   ```json
-   {
-     "mcpServers": {
-       "playwright-mcp": {
-         "command": "npx",
-         "args": ["@playwright/mcp"]
-       }
-     }
-   }
-   ```
+   Then edit `prompts/candidate-facts.md` with your real values. **This file is gitignored** so your salary and DOB never get committed. Re-edit it whenever your resume changes.
 
-2. Ask Claude Code to apply for jobs:
-   ```
-   run this to apply jobs in linkedin
-   ```
+## Configure the Playwright MCP server in Claude Code
 
-## What It Does
+Add the MCP server to your Claude Code config (`~/.claude/settings.json` or project `.claude/settings.json`):
 
-1. Opens a Playwright browser and navigates to LinkedIn login
-2. Logs in using credentials from `.env`
-3. Searches for **Full Stack Developer** jobs in India with **Easy Apply** filter (last 24 hours, most recent)
-4. For each matching job:
-   - Clicks Easy Apply
-   - Fills contact info (email, phone) from your LinkedIn profile
-   - Attaches your uploaded resume
-   - Answers additional screening questions
-   - Reviews and submits the application
-5. Moves to the next relevant job and repeats
+### Headed mode (default — start here)
 
-## Notes
+The browser window is visible so you can watch the bot, intervene on CAPTCHAs/OTPs, and stop it if anything looks off.
 
-- The bot only applies to **Easy Apply** jobs (no external redirects)
-- Screening questions are answered based on your resume/profile (e.g., years of experience per skill)
-- LinkedIn may show CAPTCHAs or verification challenges — handle those manually if they appear
-- Keep the browser window visible during the process so you can intervene if needed
+```json
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    }
+  }
+}
+```
+
+### Headless mode (switch to this once the flow is reliable)
+
+```json
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest", "--headless"]
+    }
+  }
+}
+```
+
+After editing settings, restart Claude Code so the new MCP config is picked up.
+
+## How to run
+
+In a Claude Code session inside this repo, just say one of:
+
+- `apply on linkedin` → Claude follows [`prompts/apply-linkedin.md`](prompts/apply-linkedin.md)
+- `apply on naukri` → Claude follows [`prompts/apply-naukri.md`](prompts/apply-naukri.md)
+
+If Claude doesn't pick up the prompt automatically, paste the contents of the relevant file into the chat.
+
+## What it does
+
+**LinkedIn** (Easy Apply only)
+1. Logs in with `LINKEDIN_EMAIL` / `LINKEDIN_PASSWORD`
+2. Searches Full Stack Developer in India, last 24 h, sorted by date, **Easy Apply** filter on
+3. For each job: clicks Easy Apply, fills contact info, attaches resume, answers screening questions, submits
+4. Skips jobs that redirect to external company sites
+
+**Naukri** (in-platform applies only)
+1. Logs in with `NAUKRI_EMAIL` / `NAUKRI_PASSWORD`
+2. Searches Full Stack Developer in India, freshness = last 1 day, sorted by date
+3. For each job: clicks **Apply** (skips **Apply on company site**), fills any pop-up screening questions, submits
+4. Tracks applied count and stops at a sensible daily limit (default 25)
+
+## Notes & caveats
+
+- **Manual oversight first.** Run in headed mode for the first few sessions. Watch what gets submitted before trusting headless.
+- **CAPTCHAs / OTPs.** Both sites occasionally challenge logins. In headed mode, solve them by hand — Claude will wait. In headless mode, the run will likely fail; switch back to headed to clear the challenge once.
+- **Rate limits.** LinkedIn caps Easy Apply at ~100/day; Naukri throttles after rapid bursts. Keep daily volume modest to avoid account flags.
+- **Resume.** LinkedIn uses whatever PDF is currently set as your default Easy Apply resume (manage at *Settings → Data Privacy → Job application settings*). Naukri uses the resume on your profile.
+- **ToS.** Automated applies sit in a grey area on both platforms' terms of service. Use at your own risk and only on your own account.
+- **Profile completeness.** Naukri ranks profiles for visibility — fill out skills, experience, and education thoroughly before running, or you'll get fewer / lower-quality results.
