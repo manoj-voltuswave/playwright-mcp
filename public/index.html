@@ -137,11 +137,31 @@
 let allJobs = [];
 let filter = 'all';
 
-// ── Load saved API key ──────────────────────────────────────────────────────
-window.addEventListener('DOMContentLoaded', () => {
-  const saved = localStorage.getItem('apify_key');
-  if (saved) document.getElementById('apify-key').value = saved;
+// ── Load saved API key from server (persists across all machines via git) ──
+window.addEventListener('DOMContentLoaded', async () => {
+  try {
+    const cfg = await fetch('/api/config').then(r => r.json());
+    if (cfg.apifyKey) document.getElementById('apify-key').value = cfg.apifyKey;
+  } catch {}
   loadJobs();
+});
+
+// Save key to server whenever it changes
+document.addEventListener('DOMContentLoaded', () => {
+  const keyInput = document.getElementById('apify-key');
+  let saveTimer;
+  keyInput.addEventListener('input', () => {
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(async () => {
+      const key = keyInput.value.trim();
+      if (!key) return;
+      await fetch('/api/config', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ apifyKey: key }),
+      });
+    }, 800); // debounce — saves 800ms after last keystroke
+  });
 });
 
 function setFilter(f) {
@@ -174,7 +194,6 @@ async function loadStats() {
 async function fetchJobs() {
   const key = document.getElementById('apify-key').value.trim();
   if (!key) { toast('Enter your Apify API key first', 'error'); return; }
-  localStorage.setItem('apify_key', key);
 
   const btn = document.getElementById('btn-fetch');
   btn.disabled = true;
