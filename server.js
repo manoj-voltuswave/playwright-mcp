@@ -9,9 +9,10 @@ const { ApifyClient } = require('apify-client');
 const app = express();
 app.use(express.json());
 
-const JOBS_FILE    = path.join(__dirname, 'linkedin-jobs.json');
-const TRACKER_FILE = path.join(__dirname, 'job-tracker.json');
-const CONFIG_FILE  = path.join(__dirname, 'config.json');
+const JOBS_FILE       = path.join(__dirname, 'linkedin-jobs.json');
+const NAUKRI_EXT_FILE = path.join(__dirname, 'naukri-external-jobs.json');
+const TRACKER_FILE    = path.join(__dirname, 'job-tracker.json');
+const CONFIG_FILE     = path.join(__dirname, 'config.json');
 
 const SEARCH_URLS = [
   'https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Developer&location=India&f_TPR=r86400&sortBy=DD',
@@ -27,9 +28,46 @@ function readJson(file, fallback) {
 function writeJson(file, data) {
   fs.writeFileSync(file, JSON.stringify(data, null, 2));
 }
-const loadJobs    = () => fs.existsSync(JOBS_FILE)    ? readJson(JOBS_FILE, [])                          : [];
-const loadTracker = () => fs.existsSync(TRACKER_FILE) ? readJson(TRACKER_FILE, { applied:{}, skipped:{} }) : { applied:{}, skipped:{} };
-const loadConfig  = () => fs.existsSync(CONFIG_FILE)  ? readJson(CONFIG_FILE, {})                         : {};
+const loadJobs       = () => fs.existsSync(JOBS_FILE)       ? readJson(JOBS_FILE, [])                                                                  : [];
+const loadNaukriExt  = () => fs.existsSync(NAUKRI_EXT_FILE) ? readJson(NAUKRI_EXT_FILE, [])                                                            : [];
+const loadTracker    = () => fs.existsSync(TRACKER_FILE)    ? readJson(TRACKER_FILE,   { applied:{}, skipped:{}, external:{}, failed:{} })             : { applied:{}, skipped:{}, external:{}, failed:{} };
+const loadConfig     = () => fs.existsSync(CONFIG_FILE)     ? readJson(CONFIG_FILE,    {})                                                             : {};
+
+// Build a unified job list: LinkedIn jobs + Naukri external jobs.
+// Each entry gets a `source` field. Status comes from tracker (applied/skipped/pending).
+function loadAllJobs() {
+  const linkedin = loadJobs().map((j, idx) => ({
+    title:       j.title || '',
+    company:     j.company || '',
+    location:    j.location || '',
+    description: j.description || '',
+    postedAt:    j.postedAt || '',
+    applyUrl:    j.applyUrl || j.linkedinUrl || '',
+    linkedinUrl: j.linkedinUrl || '',
+    easyApply:   !!j.easyApply,
+    easyApplyUrl: j.easyApplyUrl || '',
+    source:      'linkedin',
+    _key:        j.applyUrl || j.linkedinUrl || `linkedin-${idx}`,
+  }));
+
+  const naukri = loadNaukriExt().map((j, idx) => ({
+    title:       j.title || '',
+    company:     j.company || '',
+    location:    j.location || '',
+    description: '',
+    postedAt:    j.postedAt || j.capturedAt || '',
+    experience:  j.experience || '',
+    salary:      j.salary || '',
+    // Prefer captured externalUrl when present; fall back to the Naukri JD URL.
+    applyUrl:    j.externalUrl || j.applyUrl || '',
+    naukriUrl:   j.applyUrl || '',
+    externalUrl: j.externalUrl || '',
+    source:      'naukri',
+    _key:        j.applyUrl || `naukri-${idx}`,
+  }));
+
+  return [...linkedin, ...naukri];
+}
 
 // ── GET /api/config ───────────────────────────────────────────────────────────
 app.get('/api/config', (_req, res) => {
@@ -45,29 +83,37 @@ app.post('/api/config', (req, res) => {
 });
 
 // ── GET /api/jobs ─────────────────────────────────────────────────────────────
+// Returns LinkedIn + Naukri-external entries, joined with the tracker.
 app.get('/api/jobs', (_req, res) => {
-  const jobs    = loadJobs();
+  const jobs    = loadAllJobs();
   const tracker = loadTracker();
-  res.json(jobs.map((j, idx) => {
-    const key = j.apifyUrl || j.applyUrl || j.linkedinUrl || String(idx);
+  res.json(jobs.map((j) => {
+    const key = j._key;
+    // A Naukri job may also be in tracker.applied or .external by the same URL.
+    const inApplied  = tracker.applied[key];
+    const inSkipped  = tracker.skipped[key];
     return {
       ...j,
       id:        key,
-      status:    tracker.applied[key] ? 'applied' : tracker.skipped[key] ? 'skipped' : 'pending',
-      appliedAt: tracker.applied[key]?.date  || null,
-      skippedAt: tracker.skipped[key]?.date  || null,
-      notes:     tracker.applied[key]?.notes || tracker.skipped[key]?.notes || '',
+      status:    inApplied ? 'applied' : inSkipped ? 'skipped' : 'pending',
+      appliedAt: inApplied?.date || null,
+      skippedAt: inSkipped?.date || null,
+      notes:     inApplied?.notes || inSkipped?.notes || '',
     };
   }));
 });
 
 // ── GET /api/stats ────────────────────────────────────────────────────────────
 app.get('/api/stats', (_req, res) => {
-  const jobs    = loadJobs();
+  const jobs    = loadAllJobs();
   const tracker = loadTracker();
+  // Count tracker totals across BOTH sources (full picture, including past
+  // Naukri quick-applies that have no entry in linkedin-jobs.json or naukri-external-jobs.json).
   const applied = Object.keys(tracker.applied).length;
   const skipped = Object.keys(tracker.skipped).length;
-  res.json({ total: jobs.length, applied, skipped, pending: jobs.length - applied - skipped });
+  const bySource = { linkedin: 0, naukri: 0 };
+  for (const j of jobs) bySource[j.source] = (bySource[j.source] || 0) + 1;
+  res.json({ total: jobs.length, applied, skipped, pending: jobs.length - applied - skipped, bySource });
 });
 
 // ── POST /api/fetch-jobs ──────────────────────────────────────────────────────
@@ -134,11 +180,19 @@ app.post('/api/status', (req, res) => {
   if (!id || !status) return res.status(400).json({ error: 'id and status required' });
 
   const tracker = loadTracker();
+  // Look up job details so we persist title/company/source alongside status.
+  const job = loadAllJobs().find((j) => j._key === id);
+  const meta = job ? {
+    source: job.source,
+    title: job.title,
+    company: job.company,
+    location: job.location,
+  } : {};
   if (status === 'applied') {
-    tracker.applied[id] = { date: new Date().toISOString(), notes: notes || '' };
+    tracker.applied[id] = { date: new Date().toISOString(), notes: notes || '', ...meta };
     delete tracker.skipped[id];
   } else if (status === 'skipped') {
-    tracker.skipped[id] = { date: new Date().toISOString(), notes: notes || '' };
+    tracker.skipped[id] = { date: new Date().toISOString(), notes: notes || '', ...meta };
     delete tracker.applied[id];
   } else {
     delete tracker.applied[id];

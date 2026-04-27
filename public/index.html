@@ -67,6 +67,8 @@
   .badge-applied { background: #14532d; color: #86efac; }
   .badge-skipped { background: #1e293b; color: #64748b; border: 1px solid #475569; }
   .badge-pending { background: #78350f; color: #fcd34d; }
+  .badge-source-linkedin { background: #0a66c2; color: #fff; }
+  .badge-source-naukri { background: #6d28d9; color: #fff; }
   .applied-date { font-size: 0.7rem; color: #22c55e; margin-top: 4px; }
   .skipped-date { font-size: 0.7rem; color: #64748b; margin-top: 4px; }
 
@@ -127,6 +129,10 @@
   <button class="tab" data-filter="pending" onclick="setFilter('pending')">⏳ Pending</button>
   <button class="tab" data-filter="applied" onclick="setFilter('applied')">✅ Applied</button>
   <button class="tab" data-filter="skipped" onclick="setFilter('skipped')">⏭ Skipped</button>
+  <span style="width: 1px; height: 22px; background: #475569; margin: 0 6px;"></span>
+  <button class="tab active" data-source="all" onclick="setSourceFilter('all')">All Sources</button>
+  <button class="tab" data-source="linkedin" onclick="setSourceFilter('linkedin')">in LinkedIn</button>
+  <button class="tab" data-source="naukri" onclick="setSourceFilter('naukri')">N Naukri</button>
 </div>
 
 <div class="job-list" id="job-list"></div>
@@ -136,6 +142,7 @@
 <script>
 let allJobs = [];
 let filter = 'all';
+let sourceFilter = 'all';
 
 // ── Load saved API key from server (persists across all machines via git) ──
 window.addEventListener('DOMContentLoaded', async () => {
@@ -166,7 +173,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function setFilter(f) {
   filter = f;
-  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.filter === f));
+  document.querySelectorAll('.tab[data-filter]').forEach(t => t.classList.toggle('active', t.dataset.filter === f));
+  render();
+}
+
+function setSourceFilter(s) {
+  sourceFilter = s;
+  document.querySelectorAll('.tab[data-source]').forEach(t => t.classList.toggle('active', t.dataset.source === s));
   render();
 }
 
@@ -249,8 +262,9 @@ function render() {
 
   let jobs = allJobs;
   if (filter !== 'all') jobs = jobs.filter(j => j.status === filter);
+  if (sourceFilter !== 'all') jobs = jobs.filter(j => j.source === sourceFilter);
   if (q) jobs = jobs.filter(j =>
-    (j.title + j.company + j.location + j.description).toLowerCase().includes(q)
+    (j.title + j.company + j.location + (j.description || '')).toLowerCase().includes(q)
   );
 
   if (!jobs.length) {
@@ -294,7 +308,10 @@ function render() {
         ${j.description ? `<div class="job-desc">${escHtml(j.description.substring(0,200))}${j.description.length>200?'...':''}</div>` : ''}
         <div class="job-badges">
           <span class="badge badge-${j.status}">${j.status.toUpperCase()}</span>
+          <span class="badge badge-source-${j.source}">${j.source === 'linkedin' ? 'in LinkedIn' : 'N Naukri'}</span>
           ${j.easyApply ? '<span class="badge badge-easy">⚡ Easy Apply</span>' : ''}
+          ${j.experience ? `<span class="badge">${escHtml(j.experience)}</span>` : ''}
+          ${j.salary ? `<span class="badge">${escHtml(j.salary)}</span>` : ''}
         </div>
         ${statusDate}
       </div>
