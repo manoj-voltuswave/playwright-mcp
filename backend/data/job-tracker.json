@@ -332,6 +332,321 @@
       "location": "Hybrid - Hyderabad, Noida",
       "externalUrl": "",
       "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-software-engineer-principal-financial-group-hyderabad-2-to-4-years-040926027156": {
+      "date": "2026-09-05T15:46:55.250Z",
+      "source": "naukri",
+      "title": "Software Engineer",
+      "company": "Principal Financial Group",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-ab-bengaluru-hyderabad-chennai-infosys-hyderabad-chennai-bengaluru-3-to-8-years-090525023616": {
+      "date": "2026-09-05T15:49:12.648Z",
+      "source": "naukri",
+      "title": "Java Developer-AB-Bengaluru, Hyderabad, Chennai",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-logic-planet-hyderabad-chennai-bengaluru-5-to-15-years-030926032147": {
+      "date": "2026-09-05T15:49:57.681Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Logic Planet",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-infosys-hyderabad-pune-bengaluru-5-to-9-years-230226022305": {
+      "date": "2026-09-05T15:51:21.373Z",
+      "source": "naukri",
+      "title": "Java Springboot Microservices",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-black-and-white-business-solutions-hyderabad-chennai-bengaluru-4-to-8-years-230526002971": {
+      "date": "2026-09-05T15:51:33.219Z",
+      "source": "naukri",
+      "title": "Java springboot microservices",
+      "company": "Black And White Business Solutions",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spingboot-and-micorservices-tata-consultancy-services-hyderabad-chennai-6-to-10-years-050826037386": {
+      "date": "2026-09-05T15:51:49.228Z",
+      "source": "naukri",
+      "title": "Java Spingboot and Micorservices",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-maneva-consulting-hyderabad-10-to-15-years-050826019999": {
+      "date": "2026-09-05T15:51:57.044Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "MANEVA CONSULTING PRIVATE LIMITED",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-and-microservices-group-client-bank-of-america-tata-consultancy-services-hyderabad-chennai-6-to-10-years-190726003719": {
+      "date": "2026-09-05T15:52:04.858Z",
+      "source": "naukri",
+      "title": "Java Spring Boot and Microservices Group Client - Bank of America",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-nooha-asp-private-limited-hyderabad-3-to-6-years-300826004331": {
+      "date": "2026-09-05T15:52:24.947Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "Nooha Asp",
+      "location": "Hyderabad(Attapur)",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-java-engineer-ai-native-epam-systems-hyderabad-5-to-8-years-040926020381": {
+      "date": "2026-09-05T15:53:10.200Z",
+      "source": "naukri",
+      "title": "Senior Java Engineer - AI Native",
+      "company": "Epam Systems",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-lead-java-engineer-ai-native-epam-systems-hyderabad-8-to-12-years-040926020114": {
+      "date": "2026-09-05T15:53:17.934Z",
+      "source": "naukri",
+      "title": "Lead Java Engineer - AI Native",
+      "company": "Epam Systems",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-lead-java-software-developer-java-8-microservices-reactjs-junit-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926021830": {
+      "date": "2026-09-05T15:54:12.846Z",
+      "source": "naukri",
+      "title": "Lead Java Software Developer – Java 8, Microservices, ReactJS, JUnit",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-java-software-developer-java-8-microservices-reactjs-junit-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926020348": {
+      "date": "2026-09-05T15:54:20.592Z",
+      "source": "naukri",
+      "title": "Senior Java Software Developer – Java 8, Microservices, ReactJS, JUnit",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-aws-cloud-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926020253": {
+      "date": "2026-09-05T15:54:28.320Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer (Java, AWS Cloud)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-cloud-aws-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926019356": {
+      "date": "2026-09-05T15:54:36.061Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer, Java Cloud (AWS)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926019331": {
+      "date": "2026-09-05T15:54:43.802Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018050": {
+      "date": "2026-09-05T15:54:51.676Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-aws-cloud-services-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926017969": {
+      "date": "2026-09-05T15:54:59.505Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - Java & AWS Cloud Services",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-with-cloud-aws-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926016861": {
+      "date": "2026-09-05T15:55:07.406Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - Java with Cloud - AWS",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-java-software-engineer-cloud-aws-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926000296": {
+      "date": "2026-09-05T15:55:15.250Z",
+      "source": "naukri",
+      "title": "Senior Java Software Engineer - Cloud AWS",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-with-cloud-aws-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926000168": {
+      "date": "2026-09-05T15:55:23.134Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - Java with Cloud - AWS",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926019716": {
+      "date": "2026-09-05T15:55:31.125Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-interview-6-sep-26-java-full-stack-developer-eclerx-bengaluru-6-to-10-years-030926034497": {
+      "date": "2026-09-06T04:54:50.124Z",
+      "source": "naukri",
+      "title": "Interview -6-Sep-26 Java Full Stack Developer",
+      "company": "eClerx",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-alansa-technologies-bengaluru-3-to-6-years-130826022756": {
+      "date": "2026-09-06T04:57:14.558Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Alansa Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-quess-bengaluru-7-to-16-years-050926010111": {
+      "date": "2026-09-06T04:57:26.898Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Quess",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-python-experience-required-ey-bengaluru-6-to-11-years-050826000357": {
+      "date": "2026-09-06T04:59:21.010Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer (Python experience required)",
+      "company": "EY",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-tata-consultancy-services-kochi-chennai-bengaluru-8-to-10-years-300826005010": {
+      "date": "2026-09-06T05:00:10.391Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Kochi, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-spring-boot-microservices-api-development-photon-chennai-bengaluru-3-to-7-years-290826005298": {
+      "date": "2026-09-06T05:00:43.635Z",
+      "source": "naukri",
+      "title": "Java Developer Spring Boot | Microservices API Development",
+      "company": "Photon",
+      "location": "Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-java-react-aws-azure-innova-solutions-bengaluru-3-to-8-years-030926033789": {
+      "date": "2026-09-06T05:02:04.404Z",
+      "source": "naukri",
+      "title": "Java FullStack (Java + React + Aws / Azure)",
+      "company": "Innova Solutions",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-5-to-8-years-040926021439": {
+      "date": "2026-09-06T05:03:55.293Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-full-stack-developerjavareact-infovision-labs-bengaluru-6-to-9-years-030926022485": {
+      "date": "2026-09-06T05:04:23.840Z",
+      "source": "naukri",
+      "title": "Full Stack DeveloperJavaReact",
+      "company": "Infovision Labs",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-amtech-bengaluru-2-to-7-years-220826015200": {
+      "date": "2026-09-06T05:05:11.854Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Amtech",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-20-usd-per-hour-prointegrate-world-it-consulting-bengaluru-2-to-6-years-030926016209": {
+      "date": "2026-09-06T05:05:30.583Z",
+      "source": "naukri",
+      "title": "Java Developer -20 USD Per Hour",
+      "company": "Prointegrate World It Consulting",
+      "location": "Remote",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-bangalore-pune-hyderabad-infosys-pune-chennai-bengaluru-3-to-8-years-300525037446": {
+      "date": "2026-09-06T05:06:21.641Z",
+      "source": "naukri",
+      "title": "Java Developer - ((Bangalore,Pune,Hyderabad))",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
+    },
+    "https://www.naukri.com/job-listings-java-developer-bangalore-pune-infosys-pune-chennai-bengaluru-3-to-8-years-290525038305": {
+      "date": "2026-09-06T05:06:29.535Z",
+      "source": "naukri",
+      "title": "Java Developer - (Bangalore/Pune)",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "Naukri quick-apply (auto)"
     }
   },
   "skipped": {
@@ -5725,6 +6040,3066 @@
       "location": "Hyderabad, Chennai, Bengaluru",
       "externalUrl": "",
       "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-backend-developer-hetero-healthcare-hyderabad-2-to-6-years-030926024429": {
+      "date": "2026-09-05T15:47:21.254Z",
+      "source": "naukri",
+      "title": "Java Backend Developer",
+      "company": "Hetero Healthcare",
+      "location": "Hyderabad(Madhapur)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-spring-boot-microservices-cloudxtreme-hyderabad-7-to-12-years-040926925589": {
+      "date": "2026-09-05T15:47:29.693Z",
+      "source": "naukri",
+      "title": "Java Developer Spring Boot & Microservices",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-microservices-developers-for-our-walk-in-drive-5-sep-tata-consultancy-services-hyderabad-6-to-10-years-030926021001": {
+      "date": "2026-09-05T15:47:33.823Z",
+      "source": "naukri",
+      "title": "Walk-in || Java Spring Boot Microservices Developers For our Walk-In Drive 5-Sep",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-developer-or-full-stack-or-java-react-cloudxtreme-hyderabad-pune-mumbai-all-areas-12-to-15-years-040926923727": {
+      "date": "2026-09-05T15:47:42.386Z",
+      "source": "naukri",
+      "title": "Java Developer OR Full stack OR Java React",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-coimbatore-bengaluru-3-to-8-years-040926924475": {
+      "date": "2026-09-05T15:47:50.685Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Coimbatore, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-development-with-ai-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-040926922317": {
+      "date": "2026-09-05T15:47:58.885Z",
+      "source": "naukri",
+      "title": "Java Full Stack Development with Ai",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-mumbai-all-areas-5-to-9-years-040926927390": {
+      "date": "2026-09-05T15:48:07.356Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-with-linux-autosys-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-10-to-19-years-040926923509": {
+      "date": "2026-09-05T15:48:15.398Z",
+      "source": "naukri",
+      "title": "java with Linux & Autosys",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-full-stack-cloudxtreme-hyderabad-9-to-14-years-040926927477": {
+      "date": "2026-09-05T15:48:23.549Z",
+      "source": "naukri",
+      "title": "Java Developer/full stack",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926924224": {
+      "date": "2026-09-05T15:48:32.232Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-motivity-labs-hyderabad-5-to-20-years-040926003711": {
+      "date": "2026-09-05T15:49:00.006Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Motivity Labs",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-developer-with-drools-talent21-management-shared-services-pvt-ltd-hyderabad-6-to-8-years-030926923048": {
+      "date": "2026-09-05T15:49:25.489Z",
+      "source": "naukri",
+      "title": "Java Developer with Drools",
+      "company": "Leading Client",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-7-to-12-years-040926924779": {
+      "date": "2026-09-05T15:49:33.611Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-radiant-systems-inc-hyderabad-chennai-bengaluru-8-to-10-years-040926923691": {
+      "date": "2026-09-05T15:49:41.706Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Leading Client",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-bpm-cloudxtreme-hyderabad-bengaluru-delhi-ncr-5-to-10-years-040926926012": {
+      "date": "2026-09-05T15:49:49.831Z",
+      "source": "naukri",
+      "title": "Java developer- BPM",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-mumbai-all-areas-7-to-12-years-040926925564": {
+      "date": "2026-09-05T15:50:10.236Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-react-long-term-contract-with-mnc-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-8-to-13-years-040926922300": {
+      "date": "2026-09-05T15:50:18.427Z",
+      "source": "naukri",
+      "title": "Java Developer- React (Long term contract with MNC)",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-solution-architect-java-spring-boot-microservices-cloud-epam-systems-india-private-limited-hyderabad-13-to-19-years-070826911647": {
+      "date": "2026-09-05T15:50:44.118Z",
+      "source": "naukri",
+      "title": "Senior Solution Architect - Java, Spring Boot, Microservices, Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-developer-tata-consultancy-services-hyderabad-6-to-10-years-030926017766": {
+      "date": "2026-09-05T15:50:48.347Z",
+      "source": "naukri",
+      "title": "Walk-in || Java Springboot Microservices Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-aws-cloudxtreme-hyderabad-pune-bengaluru-6-to-9-years-040926926743": {
+      "date": "2026-09-05T15:50:56.538Z",
+      "source": "naukri",
+      "title": "Java Springboot Microservices AWS",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-developer-inf-infosys-hyderabad-chennai-bengaluru-5-to-9-years-150726037380": {
+      "date": "2026-09-05T15:51:13.351Z",
+      "source": "naukri",
+      "title": "JAVA Springboot Microservices Developer - INF",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-5-to-9-yrs-inf-infosys-hyderabad-chennai-bengaluru-5-to-9-years-210726028836": {
+      "date": "2026-09-05T15:51:41.342Z",
+      "source": "naukri",
+      "title": "JAVA Springboot Microservices (5 To 9 YRS)-INF",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-mumbai-all-areas-4-to-8-years-040926925436": {
+      "date": "2026-09-05T15:52:17.167Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad(Hyderabad Asbestos Staff Colony), Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-2-9-y-infosys-hyderabad-pune-chennai-3-to-8-years-030926032452": {
+      "date": "2026-09-05T15:52:37.652Z",
+      "source": "naukri",
+      "title": "Java Developer (2-9 y)",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-ms-aws-eks-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-4-to-8-years-040926927764": {
+      "date": "2026-09-05T15:52:45.823Z",
+      "source": "naukri",
+      "title": "Java MS + AWS EKS",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-mumbai-all-areas-5-to-10-years-040926927281": {
+      "date": "2026-09-05T15:52:54.271Z",
+      "source": "naukri",
+      "title": "Java Developer,",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-6-to-11-years-040926925339": {
+      "date": "2026-09-05T15:53:02.427Z",
+      "source": "naukri",
+      "title": "Java ,AWS",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-cloudxtreme-hyderabad-navi-mumbai-mumbai-all-areas-7-to-12-years-040926925760": {
+      "date": "2026-09-05T15:53:30.426Z",
+      "source": "naukri",
+      "title": "Java, AWS,",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Navi Mumbai, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-developer-mpha-mphasis-hyderabad-mumbai-all-areas-7-to-12-years-040926925408": {
+      "date": "2026-09-05T15:53:38.576Z",
+      "source": "naukri",
+      "title": "Java Aws Developer Mpha",
+      "company": "Mphasis",
+      "location": "Hyderabad, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-msb-kafka-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-8-to-13-years-040926924065": {
+      "date": "2026-09-05T15:53:46.782Z",
+      "source": "naukri",
+      "title": "Java ,MSB ,Kafka",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-developer-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-7-to-12-years-040926923969": {
+      "date": "2026-09-05T15:53:55.136Z",
+      "source": "naukri",
+      "title": "Java Aws Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-lead-cloudxtreme-mumbai-hyderabad-bengaluru-7-to-12-years-040926922122": {
+      "date": "2026-09-05T15:54:04.977Z",
+      "source": "naukri",
+      "title": "Java Full Stack Lead",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-microservice-inf-5-9yrs-infosys-hyderabad-chennai-bengaluru-5-to-9-years-270726031181": {
+      "date": "2026-09-05T15:55:44.349Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer Microservice -INF(5-9YRS)",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-mumbai-all-areas-10-to-17-years-040926927397": {
+      "date": "2026-09-05T15:55:53.179Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-it-delivery-manager-java-net-epam-systems-india-private-limited-hyderabad-pune-bengaluru-14-to-18-years-140826931125": {
+      "date": "2026-09-05T15:56:05.696Z",
+      "source": "naukri",
+      "title": "IT Delivery Manager - Java/.Net",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-5-to-10-years-040926925588": {
+      "date": "2026-09-05T15:56:13.700Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-full-stack-cloud-native-epam-systems-hyderabad-chennai-bengaluru-0-to-0-years-040926020569": {
+      "date": "2026-09-05T15:56:21.872Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Full Stack, Cloud-Native",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-full-stack-microservices-epam-systems-hyderabad-chennai-bengaluru-0-to-0-years-040926020281": {
+      "date": "2026-09-05T15:56:30.164Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Full Stack (Microservices)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-full-stack-for-fintech-epam-systems-hyderabad-chennai-bengaluru-0-to-0-years-040926018014": {
+      "date": "2026-09-05T15:56:38.210Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Full Stack For Fintech",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-developer-java-with-aws-cloud-epam-systems-hyderabad-chennai-8-to-12-years-040926017565": {
+      "date": "2026-09-05T15:56:46.261Z",
+      "source": "naukri",
+      "title": "Lead Software Developer - Java with AWS Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-developer-java-with-aws-cloud-epam-systems-hyderabad-chennai-8-to-12-years-040926016971": {
+      "date": "2026-09-05T15:56:54.420Z",
+      "source": "naukri",
+      "title": "Lead Software Developer - Java with AWS Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-for-long-term-contract-pan-india-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-6-to-10-years-040926925571": {
+      "date": "2026-09-05T15:57:02.526Z",
+      "source": "naukri",
+      "title": "Java For long term contract pan india",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-developer-cloudxtreme-hyderabad-6-to-11-years-040926924734": {
+      "date": "2026-09-05T15:57:19.814Z",
+      "source": "naukri",
+      "title": "Fullstack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926023259": {
+      "date": "2026-09-05T15:57:28.021Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-it-delivery-manager-java-net-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926021975": {
+      "date": "2026-09-05T15:57:36.228Z",
+      "source": "naukri",
+      "title": "IT Delivery Manager - Java/.NET",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-camunda-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926019493": {
+      "date": "2026-09-05T15:57:44.265Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Camunda",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-java-fullstack-software-engineer-java-reactjs-microservices-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926019472": {
+      "date": "2026-09-05T15:57:52.297Z",
+      "source": "naukri",
+      "title": "Lead Java FullStack Software Engineer - Java, ReactJS, Microservices",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-3-6-years-pan-india-infosys-hyderabad-chennai-bengaluru-3-to-6-years-100826022912": {
+      "date": "2026-09-05T15:58:00.526Z",
+      "source": "naukri",
+      "title": "Java Developer (3-6 years) Pan India",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-data-software-engineer-epam-systems-hyderabad-pune-bengaluru-5-to-8-years-040926017992": {
+      "date": "2026-09-05T15:58:17.239Z",
+      "source": "naukri",
+      "title": "Senior Data Software Engineer",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-java-fullstack-application-engineer-national-payments-corporation-of-india-npci-mumbai-hyderabad-9-to-14-years-240826028354": {
+      "date": "2026-09-05T15:58:25.373Z",
+      "source": "naukri",
+      "title": "Lead Java Fullstack Application Engineer",
+      "company": "National Payments Corporation of India (NPCI)",
+      "location": "Hyderabad, Mumbai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-240826003116": {
+      "date": "2026-09-05T15:58:33.425Z",
+      "source": "naukri",
+      "title": "Software-Java Developer",
+      "company": "Creative Hands HR",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-7-to-12-years-040926927525": {
+      "date": "2026-09-05T15:58:41.546Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-6-to-11-years-040926925812": {
+      "date": "2026-09-05T15:58:49.730Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-chennai-6-to-9-years-040926925385": {
+      "date": "2026-09-05T15:58:58.051Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926924509": {
+      "date": "2026-09-05T15:59:06.114Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926923823": {
+      "date": "2026-09-05T15:59:14.152Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-hexaware-technologies-hyderabad-bengaluru-5-to-6-years-040926031341": {
+      "date": "2026-09-05T15:59:22.262Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Hexaware Technologies",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-production-support-software-engineer-bhanix-finance-and-investment-limited-cashe-hyderabad-3-to-7-years-040926013972": {
+      "date": "2026-09-05T15:59:26.271Z",
+      "source": "naukri",
+      "title": "Walk-in || Production Support Software Engineer",
+      "company": "Bhanix Finance and Investment Limited (CASHe)",
+      "location": "Hyderabad(Kondapur)",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-with-aws-and-kubernetes-cloudxtreme-hyderabad-6-to-11-years-040926925119": {
+      "date": "2026-09-05T15:59:34.326Z",
+      "source": "naukri",
+      "title": "Java with AWS and kubernetes",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-java8-spring-rest-api-microservices-epam-systems-hyderabad-pune-bengaluru-8-to-12-years-040926020469": {
+      "date": "2026-09-05T15:59:42.478Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Java8, Spring, REST API, Microservices",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-full-stack-react-angular-epam-systems-hyderabad-chennai-bengaluru-0-to-0-years-040926019461": {
+      "date": "2026-09-05T15:59:50.583Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Full Stack (React/Angular)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-full-stack-azure-epam-systems-hyderabad-chennai-bengaluru-0-to-0-years-040926018629": {
+      "date": "2026-09-05T15:59:58.943Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Full Stack (Azure)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-cloudxtreme-hyderabad-7-to-10-years-040926927439": {
+      "date": "2026-09-05T16:00:06.986Z",
+      "source": "naukri",
+      "title": "java/aws",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-cloudxtreme-hyderabad-10-to-16-years-040926927437": {
+      "date": "2026-09-05T16:00:15.102Z",
+      "source": "naukri",
+      "title": "Java+aws",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-webflux-framework-node-or-angular-js-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926925584": {
+      "date": "2026-09-05T16:00:29.465Z",
+      "source": "naukri",
+      "title": "Java , Spring WebFlux framework, Node or Angular js",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-developer-java-with-aws-cloud-epam-systems-hyderabad-chennai-8-to-12-years-040926023104": {
+      "date": "2026-09-05T16:00:39.146Z",
+      "source": "naukri",
+      "title": "Lead Software Developer - Java with AWS Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-developer-java-with-aws-cloud-epam-systems-hyderabad-chennai-8-to-12-years-040926021956": {
+      "date": "2026-09-05T16:00:49.827Z",
+      "source": "naukri",
+      "title": "Lead Software Developer - Java with AWS Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-technical-lead-photon-hyderabad-chennai-bengaluru-7-to-14-years-040926019917": {
+      "date": "2026-09-05T16:01:00.927Z",
+      "source": "naukri",
+      "title": "Java Technical Lead",
+      "company": "Photon",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-solution-architect-java-azure-epam-systems-hyderabad-chennai-bengaluru-14-to-18-years-040926019801": {
+      "date": "2026-09-05T16:01:08.999Z",
+      "source": "naukri",
+      "title": "Senior Solution Architect – (Java & Azure)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-software-engineer-java-reactjs-microservices-epam-systems-hyderabad-5-to-8-years-040926019152": {
+      "date": "2026-09-05T16:01:17.030Z",
+      "source": "naukri",
+      "title": "Senior Java FullStack Software Engineer - Java, ReactJS, Microservices",
+      "company": "Epam Systems",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-software-developer-java-with-aws-cloud-epam-systems-hyderabad-chennai-8-to-12-years-040926000188": {
+      "date": "2026-09-05T16:01:25.068Z",
+      "source": "naukri",
+      "title": "Lead Software Developer - Java with AWS Cloud",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-software-engineer-newgen-hyderabad-2-to-5-years-240826002178": {
+      "date": "2026-09-05T16:01:33.115Z",
+      "source": "naukri",
+      "title": "Software Engineer",
+      "company": "Newgen",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-inf-infosys-hyderabad-chennai-bengaluru-3-to-8-years-300726029684": {
+      "date": "2026-09-05T16:01:41.131Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer-INF",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-hyderabad-chennai-bengaluru-5-to-10-years-240826001346": {
+      "date": "2026-09-05T16:01:49.116Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-8-to-11-years-040926927427": {
+      "date": "2026-09-05T16:02:02.102Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-6-to-10-years-040926923759": {
+      "date": "2026-09-05T16:02:10.097Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-4-to-9-years-040926927522": {
+      "date": "2026-09-05T16:02:22.442Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926926262": {
+      "date": "2026-09-05T16:02:30.506Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-8-to-11-years-040926925069": {
+      "date": "2026-09-05T16:02:38.529Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-8-to-12-years-040926924507": {
+      "date": "2026-09-05T16:02:46.638Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926924429": {
+      "date": "2026-09-05T16:02:54.738Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-chennai-7-to-10-years-040926924076": {
+      "date": "2026-09-05T16:03:02.792Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-coimbatore-6-to-8-years-040926924010": {
+      "date": "2026-09-05T16:03:10.810Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Coimbatore",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-8-to-13-years-040926922977": {
+      "date": "2026-09-05T16:03:19.057Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-6-to-9-years-040926922532": {
+      "date": "2026-09-05T16:03:27.140Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-10-to-13-years-040926922249": {
+      "date": "2026-09-05T16:03:35.204Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-4-to-9-years-040926922234": {
+      "date": "2026-09-05T16:03:43.265Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-6-to-9-years-040926922154": {
+      "date": "2026-09-05T16:03:51.361Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-logic-planet-hyderabad-chennai-bengaluru-5-to-8-years-030926032283": {
+      "date": "2026-09-05T16:03:59.387Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Logic Planet",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-lead-developer-r-infosys-hyderabad-chennai-bengaluru-2-to-7-years-260226031182": {
+      "date": "2026-09-05T16:04:16.798Z",
+      "source": "naukri",
+      "title": "Java Fullstack (Angular) Lead Developer-R",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-multiple-openings-on-sap-full-stack-developer-qa-automation-stigentech-it-services-hyderabad-1-to-3-years-030926019249": {
+      "date": "2026-09-05T16:04:24.963Z",
+      "source": "naukri",
+      "title": "Multiple Openings on SAP, Full Stack Developer & QA Automation",
+      "company": "Stigentech IT Services",
+      "location": "Hybrid - Hyderabad(HITEC City +1)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-angular-inf-2-5-yrs-infosys-hyderabad-chennai-bengaluru-2-to-5-years-230726034978": {
+      "date": "2026-09-05T16:04:33.042Z",
+      "source": "naukri",
+      "title": "JAVA + Angular - INF (2-5 YRS)",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-radiant-digital-solutions-hyderabad-8-to-15-years-260826016277": {
+      "date": "2026-09-05T16:04:41.064Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "Radiant Digital Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-professional-purview-india-consulting-and-services-llp-hyderabad-pune-6-to-8-years-210826928172": {
+      "date": "2026-09-05T16:04:49.125Z",
+      "source": "naukri",
+      "title": "Java Fullstack professional",
+      "company": "Leading Client",
+      "location": "Hyderabad, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-urgent-hiring-java-fullstack-developer-hr-solutions-hyderabad-4-to-7-years-110826016086": {
+      "date": "2026-09-05T16:05:01.756Z",
+      "source": "naukri",
+      "title": "Urgent Hiring || JAVA Fullstack Developer",
+      "company": "HR SOLUTIONS",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-lead-developer-infosys-hyderabad-chennai-bengaluru-5-to-9-years-191125931956": {
+      "date": "2026-09-05T16:05:14.148Z",
+      "source": "naukri",
+      "title": "Java Fullstack (Angular) Lead Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-with-reactjs-opening-in-cognizant-5-8-to-15-yrs-concepts-unlimited-hyderabad-chennai-bengaluru-6-to-11-years-290826006254": {
+      "date": "2026-09-05T16:05:22.217Z",
+      "source": "naukri",
+      "title": "JAVA Fullstack with Reactjs opening in Cognizant 5.8 To 15 Yrs",
+      "company": "Cognizant",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-architect-grid-dynamics-private-limited-hyderabad-chennai-bengaluru-7-to-12-years-240826920743": {
+      "date": "2026-09-05T16:05:30.295Z",
+      "source": "naukri",
+      "title": "Java Fullstack Architect",
+      "company": "Grid Dynamics",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-crisil-hyderabad-5-to-14-years-260826020112": {
+      "date": "2026-09-05T16:05:38.395Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "Crisil",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-s-infosys-hyderabad-chennai-bengaluru-5-to-10-years-240826031616": {
+      "date": "2026-09-05T16:05:46.451Z",
+      "source": "naukri",
+      "title": "Java fullstack Angular-S",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-opening-for-java-fullstack-reactjs-developer-tekskills-hyderabad-6-to-10-years-180826936937": {
+      "date": "2026-09-05T16:05:59.139Z",
+      "source": "naukri",
+      "title": "Opening For Java fullstack reactjs developer",
+      "company": "Tekskills India Pvt ltd",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-urgent-hiring-for-java-fullstack-developer-tech-mahindra-hyderabad-pune-bengaluru-5-to-10-years-050826009045": {
+      "date": "2026-09-05T16:06:07.225Z",
+      "source": "naukri",
+      "title": "Urgent Hiring For \"Java Fullstack Developer\"",
+      "company": "Tech Mahindra",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-react-6-cloudxtreme-hyderabad-bengaluru-delhi-ncr-6-to-11-years-040926922443": {
+      "date": "2026-09-05T16:06:15.237Z",
+      "source": "naukri",
+      "title": "java fullstack -react-6+",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-engineer-ascendion-engineering-hyderabad-5-to-10-years-040926019598": {
+      "date": "2026-09-05T16:06:23.265Z",
+      "source": "naukri",
+      "title": "Java Fullstack Engineer",
+      "company": "Ascendion Engineering",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-professional-purview-india-consulting-and-services-llp-hyderabad-pune-6-to-8-years-190826917026": {
+      "date": "2026-09-05T16:06:31.452Z",
+      "source": "naukri",
+      "title": "Java Fullstack Professional",
+      "company": "Leading Client",
+      "location": "Hyderabad, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-urgent-requirement-java-fullstack-developer-hr-solutions-hyderabad-5-to-8-years-240826009433": {
+      "date": "2026-09-05T16:06:39.686Z",
+      "source": "naukri",
+      "title": "Urgent Requirement || JAVA Fullstack Developer",
+      "company": "HR SOLUTIONS",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-tech-mahindra-hyderabad-pune-bengaluru-5-to-10-years-250826013912": {
+      "date": "2026-09-05T16:06:48.002Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "Tech Mahindra",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-with-aws-serverless-architecture-and-aws-cdk-e-solutions-hyderabad-chennai-bengaluru-8-to-10-years-120826009442": {
+      "date": "2026-09-05T16:07:00.844Z",
+      "source": "naukri",
+      "title": "Java Fullstack with AWS Serverless architecture and AWS CDK",
+      "company": "E Solutions",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-immediate-hiring-for-java-fullstack-ai-developer-tech-mahindra-hyderabad-bengaluru-5-to-8-years-170826034305": {
+      "date": "2026-09-05T16:07:09.138Z",
+      "source": "naukri",
+      "title": "Immediate Hiring For \"Java Fullstack AI Developer\"",
+      "company": "Tech Mahindra",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-engineer-purview-india-consulting-and-services-llp-hyderabad-5-to-8-years-180826921375": {
+      "date": "2026-09-05T16:07:17.394Z",
+      "source": "naukri",
+      "title": "Java Fullstack Engineer",
+      "company": "Leading Client",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-phenom-people-hyderabad-4-to-7-years-100826006061": {
+      "date": "2026-09-05T16:07:25.578Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "Phenom People",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-opportunity-of-java-fullstack-lead-raect-hyderabad-location-virtusa-hyderabad-10-to-20-years-060826030533": {
+      "date": "2026-09-05T16:07:33.688Z",
+      "source": "naukri",
+      "title": "Job opportunity of Java Fullstack Lead Raect-Hyderabad Location !!",
+      "company": "Virtusa",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-lead-java-fullstack-software-engineer-java-reactjs-microservices-epam-systems-india-private-limited-hyderabad-pune-chennai-8-to-13-years-070826911629": {
+      "date": "2026-09-05T16:07:46.462Z",
+      "source": "naukri",
+      "title": "Lead Java FullStack Software Engineer - Java, ReactJS, Microservices",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-fullstack-angular-epam-systems-india-private-limited-hyderabad-pune-bengaluru-5-to-9-years-070826911622": {
+      "date": "2026-09-05T16:07:54.870Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - (Java Fullstack Angular)",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-tcs-opening-java-fullstack-8-to-12-yrs-tata-consultancy-services-hyderabad-pune-bengaluru-8-to-13-years-070826040183": {
+      "date": "2026-09-05T16:08:03.101Z",
+      "source": "naukri",
+      "title": "TCS//Job Opening//JAVA Fullstack// 8 To 12 Yrs",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-ts-java-fullstack-angular-react-developer-architect-srivango-hyderabad-pune-bengaluru-7-to-12-years-250325016117": {
+      "date": "2026-09-05T16:08:11.279Z",
+      "source": "naukri",
+      "title": "TS - Java Fullstack (Angular/React)Developer/Architect",
+      "company": "IT company",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-opening-for-java-fullstack-with-angular-or-react-tekskills-hyderabad-10-to-15-years-180826932769": {
+      "date": "2026-09-05T16:08:23.881Z",
+      "source": "naukri",
+      "title": "Opening For Java fullstack with (Angular or React)",
+      "company": "Tekskills India Pvt ltd",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-developer-lead-think-people-solutions-hyderabad-8-to-13-years-060826033850": {
+      "date": "2026-09-05T16:08:32.053Z",
+      "source": "naukri",
+      "title": "Java Fullstack + Angular Developer ( Lead )",
+      "company": "Think People Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-tech-lead-kumaran-systems-hyderabad-6-to-11-years-060826016229": {
+      "date": "2026-09-05T16:08:40.212Z",
+      "source": "naukri",
+      "title": "Java Fullstack - TECH LEAD",
+      "company": "Kumaran Systems",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-hcltech-hyderabad-chennai-bengaluru-8-to-13-years-170826021579": {
+      "date": "2026-09-05T16:08:48.389Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "HCLTech",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-tcs-is-hiring-for-java-fullstack-developer-7-to-12-years-hyderabad-tata-consultancy-services-hyderabad-7-to-12-years-130826015626": {
+      "date": "2026-09-05T16:08:56.602Z",
+      "source": "naukri",
+      "title": "Tcs is hiring For Java Fullstack Developer_7 To 12 years_Hyderabad",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-react-luxoft-hyderabad-pune-6-to-11-years-020726013233": {
+      "date": "2026-09-05T16:09:04.778Z",
+      "source": "naukri",
+      "title": "Java FullStack Developer (+ React)",
+      "company": "Luxoft",
+      "location": "Hybrid - Hyderabad, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-lead-developer-infosys-limited-hyderabad-5-to-10-years-290626928380": {
+      "date": "2026-09-05T16:09:12.842Z",
+      "source": "naukri",
+      "title": "Java Fullstack (Angular) Lead Developer",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-angular-azure-cloudxtreme-hyderabad-chennai-coimbatore-4-to-9-years-040926925987": {
+      "date": "2026-09-05T16:09:20.965Z",
+      "source": "naukri",
+      "title": "Java Fullstack - Angular / Azure",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Chennai, Coimbatore",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-with-angular-tata-consultancy-services-hyderabad-pune-bengaluru-7-to-12-years-100826005527": {
+      "date": "2026-09-05T16:09:33.698Z",
+      "source": "naukri",
+      "title": "Java Fullstack with Angular",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-tata-consultancy-services-hyderabad-chennai-bengaluru-6-to-10-years-050826037518": {
+      "date": "2026-09-05T16:09:41.957Z",
+      "source": "naukri",
+      "title": "Java Fullstack",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-hcltech-hyderabad-5-to-7-years-040826016654": {
+      "date": "2026-09-05T16:09:50.024Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "HCLTech",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-g-r-consultants-hyderabad-chennai-bengaluru-7-to-12-years-010426019362": {
+      "date": "2026-09-05T16:09:58.118Z",
+      "source": "naukri",
+      "title": "Java Fullstack",
+      "company": "G R Consultants",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-java-fullstack-angular-epam-systems-hyderabad-7-to-12-years-250826029357": {
+      "date": "2026-09-05T16:10:06.578Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer - (Java Fullstack Angular)",
+      "company": "Epam Systems",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-naukri-e-hire-hyderabad-chennai-bengaluru-5-to-10-years-190826022269": {
+      "date": "2026-09-05T16:10:14.857Z",
+      "source": "naukri",
+      "title": "Java Fullstack Developer",
+      "company": "Naukri E-hire",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-opening-for-java-fullstack-developer-with-reactjs-tekskills-hyderabad-7-to-12-years-180826936850": {
+      "date": "2026-09-05T16:10:22.954Z",
+      "source": "naukri",
+      "title": "Opening For Java fullstack developer with ReactJS",
+      "company": "tekskills india",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-lead-ntt-data-inc-hyderabad-chennai-bengaluru-8-to-11-years-130826015319": {
+      "date": "2026-09-05T16:10:31.005Z",
+      "source": "naukri",
+      "title": "Java Fullstack Lead",
+      "company": "NTT DATA, Inc.",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-with-react-js-edurun-hyderabad-6-to-9-years-190826017719": {
+      "date": "2026-09-05T16:10:39.148Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer (with React .JS)",
+      "company": "EduRun Group",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-solution-architect-java-fullstack-epam-systems-india-private-limited-hyderabad-pune-chennai-14-to-19-years-070826911632": {
+      "date": "2026-09-05T16:10:56.301Z",
+      "source": "naukri",
+      "title": "Solution Architect – Java Fullstack",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-synechron-hyderabad-bengaluru-7-to-12-years-130826013389": {
+      "date": "2026-09-05T16:11:04.383Z",
+      "source": "naukri",
+      "title": "Java Fullstack Developer",
+      "company": "Synechron",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-opening-for-java-fullstack-with-scrum-master-tekskills-hyderabad-12-to-18-years-180826936196": {
+      "date": "2026-09-05T16:11:12.449Z",
+      "source": "naukri",
+      "title": "Opening For Java fullstack with Scrum master",
+      "company": "Tekskills India Pvt ltd",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-i-globus-hyderabad-9-to-12-years-100826017730": {
+      "date": "2026-09-05T16:11:24.873Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "I-Globus",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-staff-engineer-sdkm-solutions-hyderabad-9-to-11-years-180826020097": {
+      "date": "2026-09-05T16:11:37.708Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Staff Engineer",
+      "company": "Sdkm Solutions",
+      "location": "Remote",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-mumbai-all-areas-5-to-10-years-040926922530": {
+      "date": "2026-09-05T16:11:54.768Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-react-fullstack-capgemini-hyderabad-chennai-bengaluru-4-to-9-years-300726028049": {
+      "date": "2026-09-05T16:12:02.935Z",
+      "source": "naukri",
+      "title": "Java React fullstack",
+      "company": "Capgemini",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-with-reactjs-cloudxtreme-hyderabad-6-to-11-years-040926924728": {
+      "date": "2026-09-05T16:12:11.054Z",
+      "source": "naukri",
+      "title": "Java with reactjs",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-with-react-js-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926923622": {
+      "date": "2026-09-05T16:12:19.157Z",
+      "source": "naukri",
+      "title": "Java developer with react.js",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-react-architect-14-years-cloudxtreme-hyderabad-bengaluru-delhi-ncr-14-to-21-years-040926922731": {
+      "date": "2026-09-05T16:12:28.463Z",
+      "source": "naukri",
+      "title": "Java Developer + React Architect (14+years)",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-react-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-310726027085": {
+      "date": "2026-09-05T16:12:37.044Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer(Angular/React)(2-3 years)",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-g-3-5-yrs-infosys-hyderabad-3-to-5-years-270426034156": {
+      "date": "2026-09-05T16:12:45.369Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer -g (3 -5 yrs)",
+      "company": "Infosys",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-urgent-req-java-full-stack-developer-immediate-joiner-ey-hyderabad-bangalore-rural-gurugram-5-to-10-years-170826020255": {
+      "date": "2026-09-05T16:12:53.445Z",
+      "source": "naukri",
+      "title": "Urgent Req: Java Full Stack Developer | Immediate Joiner",
+      "company": "EY",
+      "location": "Hybrid - Hyderabad, Bangalore Rural, Gurugram",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-chennai-4-to-9-years-040926925990": {
+      "date": "2026-09-05T16:13:01.598Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-10-to-13-years-040926922138": {
+      "date": "2026-09-05T16:13:09.732Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tekskills-hyderabad-chennai-bengaluru-7-to-12-years-030926030455": {
+      "date": "2026-09-05T16:13:17.831Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tekskills",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-lead-cloudxtreme-mumbai-hyderabad-bengaluru-7-to-12-years-030826014429": {
+      "date": "2026-09-05T16:13:26.027Z",
+      "source": "naukri",
+      "title": "Java Full Stack Lead",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fse-react-cloudxtreme-hyderabad-pune-bengaluru-8-to-10-years-040926922736": {
+      "date": "2026-09-05T16:13:34.165Z",
+      "source": "naukri",
+      "title": "Java FSE React",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-ai-cloudxtreme-hyderabad-bengaluru-4-to-7-years-040926922640": {
+      "date": "2026-09-05T16:13:42.268Z",
+      "source": "naukri",
+      "title": "Java FSD AI",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-backend-cloudxtreme-hyderabad-6-to-11-years-040926922348": {
+      "date": "2026-09-05T16:13:50.597Z",
+      "source": "naukri",
+      "title": "Java FSD backend",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-lead-cloudxtreme-hyderabad-bengaluru-10-to-15-years-040926922230": {
+      "date": "2026-09-05T16:13:58.964Z",
+      "source": "naukri",
+      "title": "Java Full Stack Lead",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-5-to-10-years-040926922210": {
+      "date": "2026-09-05T16:14:07.102Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-5-to-10-years-040926922190": {
+      "date": "2026-09-05T16:14:15.388Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-software-developer-radiant-digital-solutions-hyderabad-8-to-15-years-260826028828": {
+      "date": "2026-09-05T16:14:23.650Z",
+      "source": "naukri",
+      "title": "Fullstack Software Developer",
+      "company": "Radiant Digital Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3-years-infosys-hyderabad-chennai-bengaluru-2-to-3-years-270726002467": {
+      "date": "2026-09-05T16:14:32.242Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (Angular)_ (2-3 years)",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-noida-hyderabad-bengaluru-7-to-12-years-040926924703": {
+      "date": "2026-09-05T16:14:40.304Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Noida, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-10-to-18-years-040926923750": {
+      "date": "2026-09-05T16:14:48.418Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-react-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-delhi-ncr-8-to-12-years-040926922783": {
+      "date": "2026-09-05T16:14:56.564Z",
+      "source": "naukri",
+      "title": "react -java full stack developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-coforge-hyderabad-5-to-7-years-040926014087": {
+      "date": "2026-09-05T16:15:04.655Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Coforge",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-talent21-hyderabad-6-to-10-years-040926011952": {
+      "date": "2026-09-05T16:15:12.849Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "CGI",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-aws-cloudxtreme-hyderabad-bengaluru-8-to-13-years-040926927541": {
+      "date": "2026-09-05T16:15:21.204Z",
+      "source": "naukri",
+      "title": "Java-AWS",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fse-angular-azure-cloudxtreme-hyderabad-pune-chennai-5-to-10-years-040926925486": {
+      "date": "2026-09-05T16:15:29.359Z",
+      "source": "naukri",
+      "title": "Java FSE (Angular/ Azure)",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-angular-8-cloudxtreme-hyderabad-bengaluru-delhi-ncr-6-to-11-years-040926924841": {
+      "date": "2026-09-05T16:15:37.530Z",
+      "source": "naukri",
+      "title": "Java Developer- Angular 8+",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-with-gen-ai-cloudxtreme-hyderabad-bengaluru-9-to-14-years-040926922765": {
+      "date": "2026-09-05T16:15:45.635Z",
+      "source": "naukri",
+      "title": "Java full stack with Gen AI",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-genai-react-exp-6-bengaluru-hyderabad-delhi-mumbai-tata-consultancy-services-mumbai-hyderabad-bengaluru-6-to-11-years-030826009190": {
+      "date": "2026-09-05T16:15:53.891Z",
+      "source": "naukri",
+      "title": "JAVA FSD+ GenAI+ React_EXP 6+_Bengaluru, Hyderabad, Delhi & Mumbai",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-lead-avk-tech-solution-hyderabad-7-to-12-years-070826915379": {
+      "date": "2026-09-05T16:16:02.086Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer Lead",
+      "company": "AVK Tech Solution",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-developer-java-react-wissen-technology-hyderabad-3-to-6-years-010926017968": {
+      "date": "2026-09-05T16:16:15.158Z",
+      "source": "naukri",
+      "title": "Fullstack Developer (Java React)",
+      "company": "Wissen Technology",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-angular-developer-ltm-hyderabad-5-to-8-years-310826009243": {
+      "date": "2026-09-05T16:16:19.337Z",
+      "source": "naukri",
+      "title": "Walk-in || Java Angular Developer",
+      "company": "LTM",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-architect-infosys-hyderabad-pune-bengaluru-10-to-20-years-241125030761": {
+      "date": "2026-09-05T16:16:27.854Z",
+      "source": "naukri",
+      "title": "JAVA FULL STACK Architect",
+      "company": "Infosys",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-architect-stg-infosys-hyderabad-pune-bengaluru-10-to-18-years-131125022907": {
+      "date": "2026-09-05T16:16:36.047Z",
+      "source": "naukri",
+      "title": "Java Full Stack Architect - STG",
+      "company": "Infosys",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-backend-developer-5-to-30-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-8-years-010926019602": {
+      "date": "2026-09-05T16:16:44.149Z",
+      "source": "naukri",
+      "title": "Java Backend Developer - 5 To 30 years",
+      "company": "CONFIDENTIAL",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-hyderabad-5-to-10-years-300326017586": {
+      "date": "2026-09-05T16:16:52.271Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-infosys-infosys-hyderabad-ahmedabad-bengaluru-5-to-9-years-060326031852": {
+      "date": "2026-09-05T16:17:00.383Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer(angular)-infosys",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Ahmedabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-infosys-hyderabad-bengaluru-delhi-ncr-10-to-15-years-230626047183": {
+      "date": "2026-09-05T16:17:08.468Z",
+      "source": "naukri",
+      "title": "Java full stack",
+      "company": "Infosys",
+      "location": "Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-conduent-hyderabad-bengaluru-7-to-12-years-140726035845": {
+      "date": "2026-09-05T16:17:16.591Z",
+      "source": "naukri",
+      "title": "Senior Java Developer",
+      "company": "Conduent",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-gen-ai-react-cloudxtreme-hyderabad-bengaluru-5-to-8-years-110726007845": {
+      "date": "2026-09-05T16:17:24.764Z",
+      "source": "naukri",
+      "title": "Java FSD Gen AI ( React)",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-developer-lead-insight-global-hyderabad-10-to-20-years-210826037904": {
+      "date": "2026-09-05T16:17:32.893Z",
+      "source": "naukri",
+      "title": "Fullstack Developer Lead",
+      "company": "Insight Global",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-react-full-stack-developer-synechron-hyderabad-bengaluru-6-to-11-years-050826020808": {
+      "date": "2026-09-05T16:17:40.995Z",
+      "source": "naukri",
+      "title": "Java React - Full Stack Developer",
+      "company": "Synechron",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-8-to-13-years-040926923009": {
+      "date": "2026-09-05T16:17:49.143Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tata-consultancy-services-hyderabad-chennai-bengaluru-4-to-9-years-180826007897": {
+      "date": "2026-09-05T16:17:57.433Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-angular-developer-2-3-yrs-pan-india-infosys-hyderabad-chennai-bengaluru-2-to-3-years-270726018113": {
+      "date": "2026-09-05T16:18:05.626Z",
+      "source": "naukri",
+      "title": "Java Angular Developer(2-3 yrs)-Pan India",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-angular-developer-3-5-yrs-pan-india-infosys-hyderabad-chennai-bengaluru-3-to-5-years-030726032195": {
+      "date": "2026-09-05T16:18:13.797Z",
+      "source": "naukri",
+      "title": "Java Angular Developer(3-5 yrs)-Pan India",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fse-react-angular-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926926249": {
+      "date": "2026-09-05T16:18:22.120Z",
+      "source": "naukri",
+      "title": "Java FSE React/Angular",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-with-gean-ai-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926923584": {
+      "date": "2026-09-05T16:18:30.264Z",
+      "source": "naukri",
+      "title": "Java with Gean AI",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-with-ai-cloudxtreme-hyderabad-bengaluru-8-to-13-years-040926922638": {
+      "date": "2026-09-05T16:18:38.415Z",
+      "source": "naukri",
+      "title": "Java FSD with AI",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-lead-cloudxtreme-hyderabad-bengaluru-10-to-15-years-040926922637": {
+      "date": "2026-09-05T16:18:46.591Z",
+      "source": "naukri",
+      "title": "Java Full Stack Lead",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-developer-talent21-hyderabad-6-to-10-years-040926010973": {
+      "date": "2026-09-05T16:18:54.757Z",
+      "source": "naukri",
+      "title": "Fullstack Developer",
+      "company": "CGI",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-react-js-walk-in-hyderabad-tata-consultancy-services-hyderabad-7-to-10-years-030926018710": {
+      "date": "2026-09-05T16:19:03.003Z",
+      "source": "naukri",
+      "title": "Java Full Stack React JS-Walk In-Hyderabad",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-denken-hyderabad-5-to-10-years-310826013716": {
+      "date": "2026-09-05T16:19:11.151Z",
+      "source": "naukri",
+      "title": "Senior Java Developer",
+      "company": "Denken Solutions, INC.",
+      "location": "Hyderabad(Begumpet)",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-kafka-capgemini-hyderabad-pune-4-to-8-years-010926013195": {
+      "date": "2026-09-05T16:19:19.231Z",
+      "source": "naukri",
+      "title": "Java Full stack- Kafka",
+      "company": "Capgemini",
+      "location": "Hybrid - Hyderabad, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-java-microservices-springboot-aws-cloud-angularj-el-shaddai-recruitment-and-ites-services-hyderabad-pune-bengaluru-5-to-8-years-040826011871": {
+      "date": "2026-09-05T16:19:27.390Z",
+      "source": "naukri",
+      "title": "Java Full stack(Java, Microservices, Springboot, AWS cloud) + AngularJ",
+      "company": "EL-Shaddai Recruitment and ITES Services Pvt Ltd.",
+      "location": "Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-java-angular-cloudxtreme-hyderabad-bengaluru-6-to-8-years-090526000729": {
+      "date": "2026-09-05T16:19:35.718Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (Java + Angular)",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-full-stack-integration-developer-radiant-digital-solutions-hyderabad-bangalore-rural-bengaluru-8-to-13-years-250826017829": {
+      "date": "2026-09-05T16:19:43.987Z",
+      "source": "naukri",
+      "title": "Senior Full Stack integration Developer",
+      "company": "Radiant Digital Solutions",
+      "location": "Hyderabad, Bangalore Rural, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-kafka-angular-cloudxtreme-hyderabad-bengaluru-6-to-11-years-040826008046": {
+      "date": "2026-09-05T16:19:52.084Z",
+      "source": "naukri",
+      "title": "Java developer - Kafka, Angular",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-ai-lead-angular-cloudxtreme-hyderabad-bengaluru-11-to-19-years-040826008015": {
+      "date": "2026-09-05T16:20:00.457Z",
+      "source": "naukri",
+      "title": "Java FSD AI Lead - Angular",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fsd-gen-ai-angular-cloudxtreme-hyderabad-bengaluru-6-to-11-years-040826007974": {
+      "date": "2026-09-05T16:20:08.948Z",
+      "source": "naukri",
+      "title": "Java FSD Gen Ai - Angular",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-with-react-js-tech-mahindra-hyderabad-chennai-bengaluru-5-to-10-years-250826029082": {
+      "date": "2026-09-05T16:20:17.157Z",
+      "source": "naukri",
+      "title": "Java Full stack with React.js",
+      "company": "Tech Mahindra",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developers-with-reactjs-deloitte-shared-services-india-hyderabad-bengaluru-7-to-12-years-200826034493": {
+      "date": "2026-09-05T16:20:25.480Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developers with ReactJS",
+      "company": "Deloitte Shared Services India",
+      "location": "Hybrid - Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-lead-the-hackett-group-hyderabad-10-to-15-years-270726017056": {
+      "date": "2026-09-05T16:20:33.763Z",
+      "source": "naukri",
+      "title": "Java Full Stack Lead",
+      "company": "The Hackett Group",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-technical-lead-sm-it-services-hyderabad-9-to-14-years-120826042323": {
+      "date": "2026-09-05T16:20:42.004Z",
+      "source": "naukri",
+      "title": "Java Technical Lead",
+      "company": "IT Service Company",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-angular-developer-3-9years-infosys-hyderabad-pune-bengaluru-5-to-9-years-200326023594": {
+      "date": "2026-09-05T16:20:50.264Z",
+      "source": "naukri",
+      "title": "Java full stack( angular) developer(3-9years)",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-angular-developer-infosys-hyderabad-pune-bengaluru-5-to-9-years-200326023228": {
+      "date": "2026-09-05T16:20:58.421Z",
+      "source": "naukri",
+      "title": "Java full stack( angular) developer",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tekskills-hyderabad-pan-india-12-to-22-years-180826936207": {
+      "date": "2026-09-05T16:21:06.539Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tekskills India pvt ltd",
+      "location": "Hybrid - Hyderabad, pan india",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-react-angular-developer-7-to-25-years-r-infosys-hyderabad-pune-bengaluru-5-to-9-years-230226022017": {
+      "date": "2026-09-05T16:21:14.627Z",
+      "source": "naukri",
+      "title": "Java Full Stack(React/Angular) Developer 7 To 25 years--R",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Pune, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-innominds-software-hyderabad-bengaluru-7-to-12-years-200826036325": {
+      "date": "2026-09-05T16:21:23.259Z",
+      "source": "naukri",
+      "title": "Senior Java Developer",
+      "company": "Innominds Software",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-fullstack-lead-lloyds-technology-centre-hyderabad-9-to-14-years-190826013642": {
+      "date": "2026-09-05T16:21:31.389Z",
+      "source": "naukri",
+      "title": "Fullstack Lead",
+      "company": "Lloyds Technology Centre",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-architect-han-digital-solution-hyderabad-chennai-bengaluru-10-to-16-years-180826026551": {
+      "date": "2026-09-05T16:21:40.688Z",
+      "source": "naukri",
+      "title": "Java Full Stack Architect",
+      "company": "Han Digital Solution",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-backend-developer-5-to-20-years-integel-institute-of-technology-tamil-nadu-hyderabad-chennai-bengaluru-5-to-10-years-060826036680": {
+      "date": "2026-09-05T16:21:48.754Z",
+      "source": "naukri",
+      "title": "Java Backend Developer - 5 To 20 years",
+      "company": "CONFIDENTIAL",
+      "location": "Hybrid - Hyderabad, Chennai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-core-java-developer-pratyin-infotech-hyderabad-10-to-18-years-040826016850": {
+      "date": "2026-09-05T16:22:09.058Z",
+      "source": "naukri",
+      "title": "Core Java Developer",
+      "company": "Pratyin Infotech",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-react-full-stack-developer-hanuma-infotech-hyderabad-9-to-14-years-200826014937": {
+      "date": "2026-09-05T16:22:17.158Z",
+      "source": "naukri",
+      "title": "Java React Full Stack Developer",
+      "company": "Hanuma Infotech",
+      "location": "Hybrid - Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-with-angular-tata-consultancy-services-hyderabad-7-to-12-years-010926014380": {
+      "date": "2026-09-05T16:22:25.508Z",
+      "source": "naukri",
+      "title": "Java full stack with Angular",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-full-stack-net-developer-srs-infoway-hyderabad-delhi-ncr-8-to-13-years-210826009913": {
+      "date": "2026-09-05T16:22:33.733Z",
+      "source": "naukri",
+      "title": "Full Stack .Net Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Hyderabad, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-angular-tata-consultancy-services-hyderabad-7-to-10-years-200526011899": {
+      "date": "2026-09-05T16:22:42.111Z",
+      "source": "naukri",
+      "title": "Java Full stack (Angular)",
+      "company": "Tata Consultancy Services",
+      "location": "Hyderabad",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-delhi-ncr-2-to-3-years-100826024093": {
+      "date": "2026-09-05T16:22:50.213Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-limited-bengaluru-2-to-3-years-290626928416": {
+      "date": "2026-09-05T16:22:58.332Z",
+      "source": "naukri",
+      "title": "Java Full stack Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-ntt-data-services-india-limited-bengaluru-1-to-6-years-020926927837": {
+      "date": "2026-09-05T16:23:06.636Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "NTT DATA BUSINESS SOLUTIONS",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-kolkata-chennai-bengaluru-2-to-3-years-190826037149": {
+      "date": "2026-09-05T16:23:14.779Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Kolkata, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-3-years-190826037132": {
+      "date": "2026-09-05T16:23:23.255Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-pan-india-infosys-pune-chennai-bengaluru-2-to-3-years-040826031543": {
+      "date": "2026-09-05T16:23:31.374Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer- Pan India",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-2-3y-infosys-pune-chennai-bengaluru-2-to-3-years-190826009591": {
+      "date": "2026-09-05T16:23:39.436Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (Angular)(2-3Y)",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-chennai-bengaluru-2-to-3-years-070826009065": {
+      "date": "2026-09-05T16:23:47.632Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-limited-bengaluru-9-to-11-years-030726929600": {
+      "date": "2026-09-05T16:23:55.845Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-react-0-1-years-jugla-technologies-bengaluru-0-to-1-years-260826002089": {
+      "date": "2026-09-05T16:24:04.040Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (React) | 0-1 Years",
+      "company": "Jugla Technologies",
+      "location": "Remote",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-software-engineer-lowe-s-bengaluru-3-to-5-years-100826004321": {
+      "date": "2026-09-05T16:24:12.305Z",
+      "source": "naukri",
+      "title": "Software Engineer",
+      "company": "Lowe's",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-react-infosys-pune-chennai-bengaluru-3-to-5-years-280526030778": {
+      "date": "2026-09-05T16:24:20.541Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (React)",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-coimbatore-bengaluru-4-to-8-years-040926922794": {
+      "date": "2026-09-05T16:24:33.539Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Coimbatore",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-persistent-hyderabad-pune-bengaluru-12-to-18-years-040926015253": {
+      "date": "2026-09-05T16:24:41.630Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Persistent",
+      "location": "Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tekshapers-software-solutions-bengaluru-3-to-6-years-260826014791": {
+      "date": "2026-09-05T16:24:49.769Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tekshapers Software Solutions",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-4-to-7-years-040926928075": {
+      "date": "2026-09-05T16:25:02.381Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "MNC Client",
+      "location": "Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-cloudxtreme-hyderabad-pune-bengaluru-7-to-12-years-040926924693": {
+      "date": "2026-09-05T16:25:10.595Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (Angular)",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-angular-cloudxtreme-hyderabad-chennai-bengaluru-10-to-14-years-040926924393": {
+      "date": "2026-09-05T16:25:18.643Z",
+      "source": "naukri",
+      "title": "Java full stack developer + Angular",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-6-to-8-years-040926923627": {
+      "date": "2026-09-05T16:25:26.723Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-bengaluru-6-to-8-years-040926922919": {
+      "date": "2026-09-05T16:25:34.913Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-epam-systems-hyderabad-pune-bengaluru-6-to-11-years-030926034305": {
+      "date": "2026-09-05T16:25:43.223Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Epam Systems",
+      "location": "Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-capgemini-hyderabad-pune-bengaluru-6-to-10-years-030926014497": {
+      "date": "2026-09-05T16:25:51.413Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Capgemini",
+      "location": "Hybrid - Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-pune-bengaluru-mumbai-all-areas-10-to-19-years-300826003495": {
+      "date": "2026-09-05T16:25:59.574Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-capgemini-bengaluru-mumbai-all-areas-5-to-10-years-020926029004": {
+      "date": "2026-09-05T16:26:03.675Z",
+      "source": "naukri",
+      "title": "Walk-in || Java Full Stack Developer",
+      "company": "Capgemini",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-hyderabad-pune-bengaluru-6-to-11-years-040926924020": {
+      "date": "2026-09-05T16:26:21.710Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-deloitte-us-india-offices-bengaluru-3-to-4-years-270826022917": {
+      "date": "2026-09-05T16:26:29.786Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Deloitte US-India Offices",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-wfh-position-innova-solutions-hyderabad-chennai-bengaluru-9-to-14-years-080726030014": {
+      "date": "2026-09-05T16:26:37.972Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (WFH Position)",
+      "company": "Innova Solutions",
+      "location": "Hybrid - Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-yespivot-technologies-hyderabad-bengaluru-6-to-10-years-030926033039": {
+      "date": "2026-09-05T16:26:42.108Z",
+      "source": "naukri",
+      "title": "Walk-in || Java Full Stack Developer",
+      "company": "Yespivot Technologies",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-cloud-engineering-professional-java-full-stack-developer-bt-group-bengaluru-3-to-7-years-040826015081": {
+      "date": "2026-09-05T16:26:50.452Z",
+      "source": "naukri",
+      "title": "Cloud Engineering Professional | Java Full Stack Developer",
+      "company": "BT Group",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-5-to-7-years-040926923798": {
+      "date": "2026-09-05T16:27:03.456Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-coimbatore-bengaluru-mumbai-all-areas-6-to-11-years-300426012743": {
+      "date": "2026-09-05T16:27:11.527Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Mumbai (All Areas), Bengaluru, Coimbatore",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-innova-solutions-bengaluru-7-to-12-years-310826008104": {
+      "date": "2026-09-05T16:27:19.696Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Innova Solutions",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-5-15-years-infosys-noida-pune-bengaluru-5-to-10-years-310826006816": {
+      "date": "2026-09-05T16:27:28.536Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer (5-15 Years)",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Noida, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-tquanta-technologies-bengaluru-3-to-7-years-301225502017": {
+      "date": "2026-09-06T04:53:00.719Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Tquanta Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-core-java-springboot-angular-global-foundries-inc-bengaluru-2-to-7-years-240626505347": {
+      "date": "2026-09-06T04:53:07.475Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer- (Core Java, Springboot, Angular)",
+      "company": "Globalfoundries",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-capgemini-mumbai-bengaluru-6-to-11-years-050926013949": {
+      "date": "2026-09-06T04:53:40.510Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Capgemini",
+      "location": "Hybrid - Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-orcapod-consulting-services-bengaluru-6-to-9-years-190626015553": {
+      "date": "2026-09-06T04:53:51.336Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Orcapod",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-7-to-12-years-040926925504": {
+      "date": "2026-09-06T04:54:01.004Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-with-reactjs-cloudxtreme-bengaluru-delhi-ncr-india-10-to-16-years-040926923614": {
+      "date": "2026-09-06T04:54:09.161Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer with reactjs",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru, India, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-chennai-bengaluru-6-to-11-years-040926923255": {
+      "date": "2026-09-06T04:54:17.225Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-6-to-9-years-040926922715": {
+      "date": "2026-09-06T04:54:25.201Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-6-to-11-years-040926922534": {
+      "date": "2026-09-06T04:54:34.525Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cognizant-bengaluru-6-to-11-years-030926014087": {
+      "date": "2026-09-06T04:55:17.803Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cognizant",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-bengaluru-delhi-ncr-mumbai-all-areas-9-to-14-years-020926032290": {
+      "date": "2026-09-06T04:55:25.881Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-chennai-bengaluru-mumbai-all-areas-9-to-14-years-010926007415": {
+      "date": "2026-09-06T04:55:34.215Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-peoplelogic-business-solutions-bangalore-rural-bengaluru-5-to-10-years-010926035113": {
+      "date": "2026-09-06T04:56:02.206Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Peoplelogic Business Solutions",
+      "location": "Bengaluru, Bangalore Rural",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-deloitte-us-india-offices-bengaluru-3-to-4-years-060826024721": {
+      "date": "2026-09-06T04:56:35.646Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Deloitte US-India Offices",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-10-to-20-years-040926927385": {
+      "date": "2026-09-06T04:57:34.919Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-6-to-11-years-040926927301": {
+      "date": "2026-09-06T04:57:42.924Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-7-to-12-years-040926927211": {
+      "date": "2026-09-06T04:57:51.093Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-pune-chennai-bengaluru-4-to-8-years-040926925985": {
+      "date": "2026-09-06T04:57:59.089Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-bengaluru-8-to-13-years-040926924447": {
+      "date": "2026-09-06T04:58:07.122Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-1-to-2-years-180826042980": {
+      "date": "2026-09-06T04:58:15.310Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-infosys-pune-chennai-bengaluru-2-to-5-years-100826014171": {
+      "date": "2026-09-06T04:58:23.474Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "Infosys",
+      "location": "Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-backend-developer-spring-boot-microservices-infosys-pune-chennai-bengaluru-2-to-5-years-190826038395": {
+      "date": "2026-09-06T04:58:51.026Z",
+      "source": "naukri",
+      "title": "Java Backend Developer | Spring Boot | Microservices",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-microservices-developer-2-3-years-pan-india-infosys-kolkata-indore-bengaluru-2-to-3-years-210826031264": {
+      "date": "2026-09-06T04:58:59.066Z",
+      "source": "naukri",
+      "title": "Java spring boot Microservices Developer (2-3 Years PAN INDIA)",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Kolkata, Indore",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-springboot-microservices-professional-infosys-limited-bengaluru-2-to-3-years-200826920662": {
+      "date": "2026-09-06T04:59:07.336Z",
+      "source": "naukri",
+      "title": "Java Springboot Microservices Professional",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-cloud-azure-aws-tata-consultancy-services-bengaluru-6-to-10-years-170826009972": {
+      "date": "2026-09-06T04:59:51.147Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer - Cloud (Azure/AWS)",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-tekskills-bengaluru-pan-india-6-to-11-years-180826934181": {
+      "date": "2026-09-06T05:00:18.808Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "Tekskills India pvt ltd",
+      "location": "Hybrid - Bengaluru, pan india",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-cloudxtreme-bengaluru-6-to-11-years-040926923461": {
+      "date": "2026-09-06T05:00:27.111Z",
+      "source": "naukri",
+      "title": "Senior Java Developer | Spring Boot | Microservices",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-microservices-one-round-only-f2f-cloudxtreme-bengaluru-6-to-11-years-040926923457": {
+      "date": "2026-09-06T05:00:35.738Z",
+      "source": "naukri",
+      "title": "Senior Java Developer | Spring Boot | Microservices one round only f2f",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-ai-developer-bounteous-bengaluru-5-to-9-years-010926012731": {
+      "date": "2026-09-06T05:01:11.292Z",
+      "source": "naukri",
+      "title": "Java+AI Developer",
+      "company": "Bounteous",
+      "location": "Hybrid - Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-spring-boot-visibility-reporting-for-mnc-rj-consultants-chennai-bengaluru-mumbai-all-areas-7-to-12-years-020626016797": {
+      "date": "2026-09-06T05:01:20.218Z",
+      "source": "naukri",
+      "title": "Senior Java Developer (Spring Boot) Visibility & Reporting For MNC",
+      "company": "RJ Consultants",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-smart-placement-services-navi-mumbai-pune-bengaluru-3-to-5-years-270826030223": {
+      "date": "2026-09-06T05:01:28.458Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "CONFIDENTIAL",
+      "location": "Hybrid - Navi Mumbai, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-gcp-developers-tata-consultancy-services-kochi-chennai-bengaluru-6-to-10-years-040826018354": {
+      "date": "2026-09-06T05:01:42.557Z",
+      "source": "naukri",
+      "title": "Java Spring Boot + GCP Developers",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Kochi, Chennai",
+      "externalUrl": "",
+      "notes": "no_apply_button"
+    },
+    "https://www.naukri.com/job-listings-software-engineer-full-stack-bharathire-com-private-limited-mumbai-bangalore-rural-gurugram-chennai-bengaluru-mumbai-all-areas-3-to-8-years-050926012083": {
+      "date": "2026-09-06T05:02:35.252Z",
+      "source": "naukri",
+      "title": "Software Engineer-Full Stack",
+      "company": "Leading Bank",
+      "location": "Mumbai, Mumbai (All Areas), Bengaluru, Bangalore Rural, Gurugram, Chennai",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-full-stack-developer-infosys-limited-bengaluru-3-to-5-years-200826920707": {
+      "date": "2026-09-06T05:02:43.928Z",
+      "source": "naukri",
+      "title": "Full Stack Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-j2ee-spring-spring-boot-rest-api-angular-aks-developer-ntt-data-services-india-limited-bengaluru-6-to-9-years-030926927481": {
+      "date": "2026-09-06T05:02:52.503Z",
+      "source": "naukri",
+      "title": "Java J2EE, Spring, Spring Boot, Rest API, Angular (AKS) - Developer",
+      "company": "NTT DATA BUSINESS SOLUTIONS",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-limited-bengaluru-3-to-5-years-200826920661": {
+      "date": "2026-09-06T05:03:01.510Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloudxtreme-mumbai-pune-bengaluru-6-to-9-years-040926922629": {
+      "date": "2026-09-06T05:03:13.281Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Cloudxtreme",
+      "location": "Mumbai, Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-react-developer-infosys-limited-bengaluru-3-to-5-years-100726919371": {
+      "date": "2026-09-06T05:03:21.437Z",
+      "source": "naukri",
+      "title": "Java React Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-lead-j2ee-lead-cloudxtreme-mumbai-hyderabad-bengaluru-8-to-12-years-040926922219": {
+      "date": "2026-09-06T05:03:31.129Z",
+      "source": "naukri",
+      "title": "Java Lead / J2EE Lead",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-react-developer-infosys-limited-bengaluru-3-to-5-years-290626928239": {
+      "date": "2026-09-06T05:03:47.632Z",
+      "source": "naukri",
+      "title": "Java Fullstack (React) Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-3-to-5-years-020726915512": {
+      "date": "2026-09-06T05:04:07.847Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-2-to-3-years-010726930359": {
+      "date": "2026-09-06T05:04:15.999Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-capgemini-bengaluru-mumbai-all-areas-5-to-10-years-310826016065": {
+      "date": "2026-09-06T05:04:54.763Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Capgemini",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-reactjs-developer-infosys-limited-bengaluru-1-to-5-years-130826920344": {
+      "date": "2026-09-06T05:05:03.415Z",
+      "source": "naukri",
+      "title": "Java Reactjs Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-2-to-5-years-290626928374": {
+      "date": "2026-09-06T05:05:20.804Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-naukri-e-hire-bengaluru-2-to-5-years-310826010298": {
+      "date": "2026-09-06T05:05:59.814Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Digital Harbor",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "chatbot_unknown"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-3-to-5-years-050826935108": {
+      "date": "2026-09-06T05:06:13.905Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-5-to-10-years-010726930364": {
+      "date": "2026-09-06T05:06:37.619Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-bengaluru-7-to-11-years-040926927921": {
+      "date": "2026-09-06T05:06:45.650Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-ai-developer-infosys-limited-bengaluru-3-to-5-years-090726923403": {
+      "date": "2026-09-06T05:06:53.977Z",
+      "source": "naukri",
+      "title": "Java AI Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-apache-solr-and-or-lucid-works-fusion-cloudxtreme-chennai-bengaluru-4-to-9-years-040926927424": {
+      "date": "2026-09-06T05:07:02.296Z",
+      "source": "naukri",
+      "title": "Java Developer-Apache SOLR and/or Lucid Works Fusion",
+      "company": "Cloudxtreme",
+      "location": "Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-tekskills-india-private-limited-bengaluru-8-to-13-years-210826908317": {
+      "date": "2026-09-06T05:07:10.373Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Leading Client",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-azure-developer-infosys-limited-bengaluru-3-to-5-years-200826920670": {
+      "date": "2026-09-06T05:07:19.702Z",
+      "source": "naukri",
+      "title": "Java Azure Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-onestream-developer-blr-hyd-cloudxtreme-kolkata-hyderabad-bengaluru-6-to-11-years-040926924814": {
+      "date": "2026-09-06T05:07:32.179Z",
+      "source": "naukri",
+      "title": "Java onestream Developer-Blr-Hyd",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Kolkata",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-urgent-hiring-for-java-developer-4-yrs-han-river-technology-kolkata-bengaluru-4-to-8-years-280826007032": {
+      "date": "2026-09-06T05:07:40.191Z",
+      "source": "naukri",
+      "title": "Urgent hiring For JAVA developer (4+ yrs)",
+      "company": "Han River Technology",
+      "location": "Bengaluru, Kolkata",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-infosys-pune-chennai-bengaluru-4-to-9-years-051025004417": {
+      "date": "2026-09-06T05:07:48.469Z",
+      "source": "naukri",
+      "title": "Java Developer @ Infosys",
+      "company": "Infosys",
+      "location": "Hybrid - Bengaluru, Pune, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-4-to-8-years-040926927857": {
+      "date": "2026-09-06T05:07:56.593Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-6-to-10-years-040926926418": {
+      "date": "2026-09-06T05:08:05.138Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-bpm-jpbm-cloudxtreme-hyderabad-bengaluru-delhi-ncr-4-to-9-years-040926926029": {
+      "date": "2026-09-06T05:08:13.260Z",
+      "source": "naukri",
+      "title": "Java Developer - BPM & JPBM",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Delhi / NCR",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926925820": {
+      "date": "2026-09-06T05:08:21.484Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926925819": {
+      "date": "2026-09-06T05:08:29.654Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-8-to-13-years-040926923745": {
+      "date": "2026-09-06T05:08:38.044Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-6-to-11-years-040926923562": {
+      "date": "2026-09-06T05:08:46.123Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-kolkata-hyderabad-bengaluru-8-to-13-years-040926923324": {
+      "date": "2026-09-06T05:08:54.348Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Kolkata",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-7-to-10-years-040926922860": {
+      "date": "2026-09-06T05:09:02.826Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-react-cloudxtreme-hyderabad-chennai-bengaluru-8-to-13-years-040926922754": {
+      "date": "2026-09-06T05:09:12.604Z",
+      "source": "naukri",
+      "title": "Java Developer-react",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-10-to-20-years-040926922722": {
+      "date": "2026-09-06T05:09:22.878Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cognizant-hyderabad-chennai-bengaluru-6-to-11-years-040926029205": {
+      "date": "2026-09-06T05:09:35.186Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cognizant",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-with-react-cloudxtreme-hyderabad-chennai-bengaluru-6-to-11-years-040926927391": {
+      "date": "2026-09-06T05:10:04.023Z",
+      "source": "naukri",
+      "title": "Java Developer with React",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-gurugram-bengaluru-mumbai-all-areas-6-to-11-years-040926927242": {
+      "date": "2026-09-06T05:10:12.046Z",
+      "source": "naukri",
+      "title": "Java Developer*",
+      "company": "Cloudxtreme",
+      "location": "Mumbai (All Areas), Bengaluru, Gurugram",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-bengaluru-mumbai-all-areas-7-to-12-years-040926925813": {
+      "date": "2026-09-06T05:10:20.140Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-mphasis-hyderabad-chennai-bengaluru-7-to-12-years-040926925590": {
+      "date": "2026-09-06T05:10:28.281Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Mphasis",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-bengaluru-7-to-12-years-040926924727": {
+      "date": "2026-09-06T05:10:36.543Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-8-to-12-years-040926924481": {
+      "date": "2026-09-06T05:10:44.483Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-6-to-9-years-040926923087": {
+      "date": "2026-09-06T05:10:52.815Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-orcapod-consulting-services-mumbai-bengaluru-5-to-10-years-050926014330": {
+      "date": "2026-09-06T05:11:00.938Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Orcapod Consulting Services",
+      "location": "Mumbai, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-4-to-9-years-040926928124": {
+      "date": "2026-09-06T05:11:08.991Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "MNC Clinet",
+      "location": "Hybrid - Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-react-cloudxtreme-hyderabad-chennai-bengaluru-5-to-8-years-040926927142": {
+      "date": "2026-09-06T05:11:25.640Z",
+      "source": "naukri",
+      "title": "Java Developer-react",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-mnc-company-hyderabad-chennai-bengaluru-4-to-8-years-040926927963": {
+      "date": "2026-09-06T05:11:33.790Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "MNC company",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtremetechnologies-hyderabad-chennai-bengaluru-6-to-11-years-040926927924": {
+      "date": "2026-09-06T05:11:41.756Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "CloudxtremeTechnologies",
+      "location": "Hybrid - Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-8-to-12-years-040926927865": {
+      "date": "2026-09-06T05:11:49.966Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hybrid - Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-8-to-13-years-040926927851": {
+      "date": "2026-09-06T05:11:57.943Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-cloudxtreme-hyderabad-chennai-bengaluru-6-to-10-years-040926922739": {
+      "date": "2026-09-06T05:12:05.973Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Cloudxtreme",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-orcapod-consulting-services-hyderabad-bengaluru-5-to-10-years-030926031874": {
+      "date": "2026-09-06T05:12:14.098Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "orcapod consulting services private limited",
+      "location": "Hyderabad, Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-big-query-perfect-accord-hyderabad-chennai-bengaluru-6-to-12-years-030926014114": {
+      "date": "2026-09-06T05:12:22.126Z",
+      "source": "naukri",
+      "title": "Java Developer Big Query",
+      "company": "Perfect Job Accord",
+      "location": "Hyderabad, Bengaluru, Chennai",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-3-to-5-years-170826920077": {
+      "date": "2026-09-06T05:12:30.213Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-infosys-limited-bengaluru-3-to-5-years-010726930384": {
+      "date": "2026-09-06T05:12:38.187Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Infosys",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-with-telecom-amantya-technologies-gurugram-bengaluru-mumbai-all-areas-4-to-9-years-310826002766": {
+      "date": "2026-09-06T05:12:46.704Z",
+      "source": "naukri",
+      "title": "Java Developer with Telecom",
+      "company": "Amantya Technologies",
+      "location": "Mumbai (All Areas), Bengaluru, Gurugram",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-apache-camel-capgemini-bengaluru-mumbai-all-areas-6-to-9-years-010926029199": {
+      "date": "2026-09-06T05:12:54.815Z",
+      "source": "naukri",
+      "title": "Java Developer-Apache Camel",
+      "company": "Capgemini",
+      "location": "Hybrid - Mumbai (All Areas), Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-fresher-sequretek-it-solutions-bengaluru-0-to-1-years-020926030537": {
+      "date": "2026-09-06T05:13:02.871Z",
+      "source": "naukri",
+      "title": "Java Developer - Fresher",
+      "company": "Sequretek It Solutions",
+      "location": "Bengaluru",
+      "externalUrl": "",
+      "notes": "unknown_state"
+    },
+    "https://www.naukri.com/job-listings-java-developer-pan-india-infosys-pune-bengaluru-mumbai-all-areas-5-to-9-years-100325000953": {
+      "date": "2026-09-06T05:13:11.118Z",
+      "source": "naukri",
+      "title": "Java Developer (Pan India).",
+      "company": "Infosys",
+      "location": "Mumbai (All Areas), Bengaluru, Pune",
+      "externalUrl": "",
+      "notes": "unknown_state"
     }
   },
   "external": {
@@ -9038,6 +12413,600 @@
       "company": "Midh Technologies",
       "location": "Hyderabad",
       "externalUrl": "https://www.naukri.com/job-listings-react-developer-midhtechnologies-pvt-ltd-hyderabad-2-to-5-years-200326502462",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-feuji-warangal-hyderabad-nizamabad-2-to-4-years-030926504756": {
+      "date": "2026-09-05T15:46:59.611Z",
+      "source": "naukri",
+      "title": "Java Fullstack Developer",
+      "company": "Feuji Inc",
+      "location": "Hyderabad, Warangal, Nizamabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-developer-feuji-warangal-hyderabad-nizamabad-2-to-4-years-030926504756",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-030926925689": {
+      "date": "2026-09-05T15:47:04.013Z",
+      "source": "naukri",
+      "title": "Full Stack Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-030926925689",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-backend-developer-ibu-consulting-hyderabad-1-to-4-years-040926501231": {
+      "date": "2026-09-05T15:47:08.298Z",
+      "source": "naukri",
+      "title": "java backend developer",
+      "company": "IBU Consulting",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-backend-developer-ibu-consulting-hyderabad-1-to-4-years-040926501231",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-instasmart-software-solutions-hyderabad-2-to-6-years-030926503947": {
+      "date": "2026-09-05T15:47:12.801Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Instasmart Software Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-instasmart-software-solutions-hyderabad-2-to-6-years-030926503947",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-030926925711": {
+      "date": "2026-09-05T15:49:04.464Z",
+      "source": "naukri",
+      "title": "Custom Software Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-030926925711",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-selenium-developer-virtualware-innovations-hyderabad-3-to-6-years-020926504327": {
+      "date": "2026-09-05T15:49:17.099Z",
+      "source": "naukri",
+      "title": "Java + Selenium Developer",
+      "company": "Virtualware Innovations",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-selenium-developer-virtualware-innovations-hyderabad-3-to-6-years-020926504327",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-digitowork-hyderabad-3-to-8-years-191225503091": {
+      "date": "2026-09-05T15:50:02.040Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Digitowork",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-digitowork-hyderabad-3-to-8-years-191225503091",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-sixpath-technologies-hyderabad-3-to-8-years-220118504140": {
+      "date": "2026-09-05T15:50:22.746Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Sixpath Technologies",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-sixpath-technologies-hyderabad-3-to-8-years-220118504140",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-170826925029": {
+      "date": "2026-09-05T15:50:27.034Z",
+      "source": "naukri",
+      "title": "Custom Software Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-170826925029",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-project-manager-java-architecture-spring-boot-microservices-jda-software-hyderabad-11-to-12-years-270726502404": {
+      "date": "2026-09-05T15:50:31.237Z",
+      "source": "naukri",
+      "title": "Project Manager - Java Architecture, Spring Boot, Microservices",
+      "company": "Blue Yonder",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-project-manager-java-architecture-spring-boot-microservices-jda-software-hyderabad-11-to-12-years-270726502404",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-java-spring-boot-microservices-jda-software-hyderabad-7-to-10-years-180826504411": {
+      "date": "2026-09-05T15:50:35.595Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Java, Spring Boot, Microservices",
+      "company": "Blue Yonder",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-lead-software-engineer-java-spring-boot-microservices-jda-software-hyderabad-7-to-10-years-180826504411",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-microservices-expert-logicplanet-it-services-hyderabad-4-to-6-years-200226501254": {
+      "date": "2026-09-05T15:51:00.733Z",
+      "source": "naukri",
+      "title": "Java, Spring Boot , Microservices Expert",
+      "company": "Logic Planet",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-spring-boot-microservices-expert-logicplanet-it-services-hyderabad-4-to-6-years-200226501254",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-java-spring-boot-microservices-jp-morgan-and-chase-hyderabad-8-to-13-years-030926502686": {
+      "date": "2026-09-05T15:51:05.110Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer - Java, Spring boot, Microservices",
+      "company": "JPMorgan Chase Bank",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-lead-software-engineer-java-spring-boot-microservices-jp-morgan-and-chase-hyderabad-8-to-13-years-030926502686",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-senior-java-backend-developer-symphonize-enterprise-solutions-pvt-ltd-hyderabad-4-to-7-years-190424500394": {
+      "date": "2026-09-05T15:51:25.476Z",
+      "source": "naukri",
+      "title": "Senior Java Backend Developer",
+      "company": "Symphonize Enterprise Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-senior-java-backend-developer-symphonize-enterprise-solutions-pvt-ltd-hyderabad-4-to-7-years-190424500394",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-with-kafka-7-krazy-mantra-group-of-companies-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-2-to-4-years-220425502889": {
+      "date": "2026-09-05T15:52:09.049Z",
+      "source": "naukri",
+      "title": "JAVA With Kafka:7",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-with-kafka-7-krazy-mantra-group-of-companies-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-2-to-4-years-220425502889",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-react-fullstack-developer-krazy-mantra-group-of-companies-hyderabad-pune-gurugram-bengaluru-3-to-8-years-220425502829": {
+      "date": "2026-09-05T15:52:29.503Z",
+      "source": "naukri",
+      "title": "JAVA + REACT FULLSTACK Developer",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Pune, Gurugram, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-react-fullstack-developer-krazy-mantra-group-of-companies-hyderabad-pune-gurugram-bengaluru-3-to-8-years-220425502829",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-engineer-i5-systems-hyderabad-3-to-7-years-010626501282": {
+      "date": "2026-09-05T15:53:22.220Z",
+      "source": "naukri",
+      "title": "Full Stack Engineer",
+      "company": "I5 Systems",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-engineer-i5-systems-hyderabad-3-to-7-years-010626501282",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-lead-software-engineer-java-microservices-architecture-spring-boot-jda-software-hyderabad-7-to-10-years-280726501030": {
+      "date": "2026-09-05T15:55:35.607Z",
+      "source": "naukri",
+      "title": "Lead Software Engineer -Java, Microservices architecture, Spring Boot",
+      "company": "Blue Yonder",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-lead-software-engineer-java-microservices-architecture-spring-boot-jda-software-hyderabad-7-to-10-years-280726501030",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-specialist-software-engineer-java-microservices-nationwide-mutual-insurance-company-hyderabad-2-to-5-years-040926503153": {
+      "date": "2026-09-05T15:55:57.604Z",
+      "source": "naukri",
+      "title": "Specialist, Software Engineer - Java Microservices",
+      "company": "Nationwide Insurance",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-specialist-software-engineer-java-microservices-nationwide-mutual-insurance-company-hyderabad-2-to-5-years-040926503153",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-sr-software-engineer-java-photon-infotech-p-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-10-to-12-years-240225501056": {
+      "date": "2026-09-05T15:57:07.090Z",
+      "source": "naukri",
+      "title": "Sr Software Engineer - Java",
+      "company": "Photon",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-sr-software-engineer-java-photon-infotech-p-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-10-to-12-years-240225501056",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-angular-nosql-rest-api-maven-professional-krazy-mantra-group-of-companies-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-8-to-14-years-220425503006": {
+      "date": "2026-09-05T15:57:11.687Z",
+      "source": "naukri",
+      "title": "Java - Angular +Nosql +Rest API & Maven Professional",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-angular-nosql-rest-api-maven-professional-krazy-mantra-group-of-companies-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-8-to-14-years-220425503006",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-microservices-developers-virtualware-innovations-hyderabad-3-to-7-years-020926504318": {
+      "date": "2026-09-05T15:58:04.730Z",
+      "source": "naukri",
+      "title": "Java + Microservices Developers",
+      "company": "Virtualware Innovations",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-microservices-developers-virtualware-innovations-hyderabad-3-to-7-years-020926504318",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-senior-software-engineer-allianz-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-3-to-5-years-060226507559": {
+      "date": "2026-09-05T15:58:09.109Z",
+      "source": "naukri",
+      "title": "Senior Software Engineer",
+      "company": "Careallianz",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-senior-software-engineer-allianz-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-3-to-5-years-060226507559",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-developer-java-proounce-solutions-private-limited-hyderabad-3-to-7-years-111024500044": {
+      "date": "2026-09-05T16:01:53.996Z",
+      "source": "naukri",
+      "title": "Full Stack Developer – Java",
+      "company": "Proounce",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-developer-java-proounce-solutions-private-limited-hyderabad-3-to-7-years-111024500044",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-developer-java-sql-avati-consulting-solutions-private-limited-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-8-years-021224500864": {
+      "date": "2026-09-05T16:02:14.329Z",
+      "source": "naukri",
+      "title": "Full Stack Developer (JAVA + SQL)",
+      "company": "Avati Consulting Solutions",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-developer-java-sql-avati-consulting-solutions-private-limited-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-8-years-021224500864",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-110826933227": {
+      "date": "2026-09-05T16:04:03.876Z",
+      "source": "naukri",
+      "title": "Full Stack Engineer",
+      "company": "Accenture",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-110826933227",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-senior-java-developer-consultant-aapmor-inc-hyderabad-2-to-7-years-200325504728": {
+      "date": "2026-09-05T16:04:08.357Z",
+      "source": "naukri",
+      "title": "Senior Java Developer / Consultant",
+      "company": "Aapmor Technologies",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-senior-java-developer-consultant-aapmor-inc-hyderabad-2-to-7-years-200325504728",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-software-engineer-iii-java-fullstack-jp-morgan-and-chase-hyderabad-3-to-8-years-040926502615": {
+      "date": "2026-09-05T16:04:53.274Z",
+      "source": "naukri",
+      "title": "Software Engineer III- Java FullStack",
+      "company": "JPMorgan Chase Bank",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-software-engineer-iii-java-fullstack-jp-morgan-and-chase-hyderabad-3-to-8-years-040926502615",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-develper-staffice-global-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-8-years-301224503693": {
+      "date": "2026-09-05T16:05:05.925Z",
+      "source": "naukri",
+      "title": "Java Fullstack Develper",
+      "company": "Staffice Global",
+      "location": "Hyderabad, Mumbai, Kolkata, New Delhi, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-develper-staffice-global-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-4-to-8-years-301224503693",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-lead-angular-krazy-mantra-group-of-companies-hyderabad-pune-chennai-bengaluru-3-to-6-years-230925501667": {
+      "date": "2026-09-05T16:05:50.979Z",
+      "source": "naukri",
+      "title": "Java Fullstack Lead -Angular",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-lead-angular-krazy-mantra-group-of-companies-hyderabad-pune-chennai-bengaluru-3-to-6-years-230925501667",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-beads-software-hyderabad-1-to-6-years-130625502377": {
+      "date": "2026-09-05T16:06:52.444Z",
+      "source": "naukri",
+      "title": "Java Fullstack Developer",
+      "company": "Beads Software Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-developer-beads-software-hyderabad-1-to-6-years-130625502377",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-developer-react-js-han-digital-solution-warangal-hyderabad-nizamabad-5-to-8-years-221125501420": {
+      "date": "2026-09-05T16:07:38.083Z",
+      "source": "naukri",
+      "title": "Java Fullstack Developer-React JS",
+      "company": "Han Digital Solution",
+      "location": "Hyderabad, Warangal, Nizamabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-developer-react-js-han-digital-solution-warangal-hyderabad-nizamabad-5-to-8-years-221125501420",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-krazy-mantra-group-of-companies-mumbai-hyderabad-pune-chennai-bengaluru-5-to-11-years-250325500672": {
+      "date": "2026-09-05T16:08:15.626Z",
+      "source": "naukri",
+      "title": "JAVA fullstack",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Mumbai, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-krazy-mantra-group-of-companies-mumbai-hyderabad-pune-chennai-bengaluru-5-to-11-years-250325500672",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-lead-react-js-krazy-mantra-group-of-companies-hyderabad-pune-chennai-bengaluru-5-to-10-years-230925501621": {
+      "date": "2026-09-05T16:09:25.598Z",
+      "source": "naukri",
+      "title": "Java Fullstack Lead - React JS",
+      "company": "Krazy Mantra It",
+      "location": "Hyderabad, Pune, Chennai, Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-lead-react-js-krazy-mantra-group-of-companies-hyderabad-pune-chennai-bengaluru-5-to-10-years-230925501621",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-architect-grid-dynamics-hyderabad-7-to-14-years-180526500640": {
+      "date": "2026-09-05T16:10:43.424Z",
+      "source": "naukri",
+      "title": "Java Fullstack Architect",
+      "company": "Grid Dynamics",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-architect-grid-dynamics-hyderabad-7-to-14-years-180526500640",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-sr-developer-gforce-consulting-solutions-hyderabad-5-to-10-years-170523501122": {
+      "date": "2026-09-05T16:10:47.813Z",
+      "source": "naukri",
+      "title": "Java FullStack Sr. Developer",
+      "company": "Gforce Consulting Solutions",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-sr-developer-gforce-consulting-solutions-hyderabad-5-to-10-years-170523501122",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-sw-staff-engineer-java-fullstack-candescent-hyderabad-12-to-17-years-160626500532": {
+      "date": "2026-09-05T16:11:16.732Z",
+      "source": "naukri",
+      "title": "SW Staff Engineer - Java Fullstack",
+      "company": "Candescent",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-sw-staff-engineer-java-fullstack-candescent-hyderabad-12-to-17-years-160626500532",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-senior-java-fullstack-developer-indian-financial-technology-and-allied-services-hyderabad-4-to-8-years-101225503106": {
+      "date": "2026-09-05T16:11:29.521Z",
+      "source": "naukri",
+      "title": "Senior Java Fullstack Developer",
+      "company": "Indian Financial Technology And Alliedservices",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-senior-java-fullstack-developer-indian-financial-technology-and-allied-services-hyderabad-4-to-8-years-101225503106",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-sr-java-fullstack-developer-han-digital-solution-hyderabad-8-to-10-years-221125500920": {
+      "date": "2026-09-05T16:11:41.969Z",
+      "source": "naukri",
+      "title": "Sr Java Fullstack Developer",
+      "company": "Han Digital Solution",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-sr-java-fullstack-developer-han-digital-solution-hyderabad-8-to-10-years-221125500920",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-fullstack-tao-digital-india-private-limited-hyderabad-3-to-7-years-220724502414": {
+      "date": "2026-09-05T16:11:46.445Z",
+      "source": "naukri",
+      "title": "Java-Fullstack",
+      "company": "TAO Digital",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-java-fullstack-tao-digital-india-private-limited-hyderabad-3-to-7-years-220724502414",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-content-management-lead-software-engineer-java-full-stack-ness-digital-engineering-hyderabad-5-to-9-years-070726501174": {
+      "date": "2026-09-05T16:16:06.974Z",
+      "source": "naukri",
+      "title": "Content Management Lead Software Engineer Java Full Stack",
+      "company": "Ness Digital Engineering",
+      "location": "Hyderabad",
+      "externalUrl": "https://www.naukri.com/job-listings-content-management-lead-software-engineer-java-full-stack-ness-digital-engineering-hyderabad-5-to-9-years-070726501174",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-logicoy-bengaluru-1-to-6-years-270824501740": {
+      "date": "2026-09-05T16:24:25.106Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Logicoy Software Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-logicoy-bengaluru-1-to-6-years-270824501740",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505110": {
+      "date": "2026-09-05T16:24:54.144Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Logic Planet",
+      "location": "Bengaluru, Hubballi, Mangaluru, Mysuru, Belagavi",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505110",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-android-logicoy-bengaluru-1-to-6-years-270824501741": {
+      "date": "2026-09-05T16:26:08.621Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer - Android",
+      "company": "Logicoy Software Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-android-logicoy-bengaluru-1-to-6-years-270824501741",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-cloud-quantum-bengaluru-3-to-6-years-170226504388": {
+      "date": "2026-09-05T16:26:13.096Z",
+      "source": "naukri",
+      "title": "Java Full stack Developer",
+      "company": "Cloud Quantum",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-cloud-quantum-bengaluru-3-to-6-years-170226504388",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-xyram-software-solutions-bengaluru-3-to-5-years-171225500873": {
+      "date": "2026-09-05T16:26:55.101Z",
+      "source": "naukri",
+      "title": "Java Full Stack Developer",
+      "company": "Xyram Software Solution",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-xyram-software-solutions-bengaluru-3-to-5-years-171225500873",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-purplefront-technologies-bengaluru-3-to-5-years-310326501322": {
+      "date": "2026-09-06T04:56:07.301Z",
+      "source": "naukri",
+      "title": "Java full Stack Developer",
+      "company": "Purplefront Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-purplefront-technologies-bengaluru-3-to-5-years-310326501322",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-full-stack-developer-estalvis-advisors-private-limited-bengaluru-3-to-8-years-090626504814": {
+      "date": "2026-09-06T04:57:19.154Z",
+      "source": "naukri",
+      "title": "JAVA Full Stack Developer",
+      "company": "Estalvis Advisors",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-full-stack-developer-estalvis-advisors-private-limited-bengaluru-3-to-8-years-090626504814",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-240826929414": {
+      "date": "2026-09-06T04:59:13.329Z",
+      "source": "naukri",
+      "title": "Full Stack Engineer",
+      "company": "Accenture",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-full-stack-engineer-accenture-solutions-pvt-ltd-bengaluru-2-to-5-years-240826929414",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-and-spring-boot-developer-mjc-globaltech-private-limited-bengaluru-4-to-8-years-150726500709": {
+      "date": "2026-09-06T04:59:58.401Z",
+      "source": "naukri",
+      "title": "Java and Spring Boot Developer",
+      "company": "MJC Globaltech",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-and-spring-boot-developer-mjc-globaltech-private-limited-bengaluru-4-to-8-years-150726500709",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-spring-boot-developer-ideslabs-private-limited-bengaluru-6-to-9-years-220124500371": {
+      "date": "2026-09-06T05:00:02.618Z",
+      "source": "naukri",
+      "title": "Java Spring Boot Developer",
+      "company": "IDESLABS",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-spring-boot-developer-ideslabs-private-limited-bengaluru-6-to-9-years-220124500371",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-spring-boot-kafka-aws-microservices-worldpay-bengaluru-3-to-4-years-110626500362": {
+      "date": "2026-09-06T05:01:33.957Z",
+      "source": "naukri",
+      "title": "Java Developer (Spring Boot, Kafka, AWS, Microservices)",
+      "company": "Worldpay",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-spring-boot-kafka-aws-microservices-worldpay-bengaluru-3-to-4-years-110626500362",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-spring-boot-microservices-aws-worldpay-bengaluru-3-to-4-years-100626500420": {
+      "date": "2026-09-06T05:01:38.225Z",
+      "source": "naukri",
+      "title": "Java Developer (Spring Boot, Microservices, AWS)",
+      "company": "Worldpay",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-spring-boot-microservices-aws-worldpay-bengaluru-3-to-4-years-100626500420",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-springboot-developer-gforce-consulting-solutions-bengaluru-5-to-7-years-170523501149": {
+      "date": "2026-09-06T05:01:46.856Z",
+      "source": "naukri",
+      "title": "Springboot Developer",
+      "company": "Gforce Consulting Solutions",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-springboot-developer-gforce-consulting-solutions-bengaluru-5-to-7-years-170523501149",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-lead-full-stack-engineer-tricog-bengaluru-1-to-4-years-060526500275": {
+      "date": "2026-09-06T05:03:59.704Z",
+      "source": "naukri",
+      "title": "Lead Full Stack Engineer",
+      "company": "Tricog Health Services",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-lead-full-stack-engineer-tricog-bengaluru-1-to-4-years-060526500275",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-em-di-java-developer-embitel-bengaluru-2-to-4-years-310826504028": {
+      "date": "2026-09-06T05:06:05.436Z",
+      "source": "naukri",
+      "title": "EM - DI - Java Developer",
+      "company": "Embitel Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-em-di-java-developer-embitel-bengaluru-2-to-4-years-310826504028",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-codecraft-technologies-pvt-ltd-bengaluru-3-to-5-years-050226501205": {
+      "date": "2026-09-06T05:07:24.104Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Codecraft Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-codecraft-technologies-pvt-ltd-bengaluru-3-to-5-years-050226501205",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-taurus-hard-soft-solutions-pvt-ltd-bengaluru-0-to-1-years-240726504056": {
+      "date": "2026-09-06T05:09:43.388Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Taurus Hard Soft Solutions",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-taurus-hard-soft-solutions-pvt-ltd-bengaluru-0-to-1-years-240726504056",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-tech-narayana-software-p-ltd-bengaluru-0-to-1-years-180226503046": {
+      "date": "2026-09-06T05:09:47.535Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Tech Narayana",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-tech-narayana-software-p-ltd-bengaluru-0-to-1-years-180226503046",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-logicoy-bengaluru-0-to-5-years-270824501739": {
+      "date": "2026-09-06T05:09:51.597Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Logicoy Software Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-logicoy-bengaluru-0-to-5-years-270824501739",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-squircle-it-consulting-services-pvt-ltd-bengaluru-3-to-5-years-140126503302": {
+      "date": "2026-09-06T05:09:55.969Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Squircle IT",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-squircle-it-consulting-services-pvt-ltd-bengaluru-3-to-5-years-140126503302",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-taurus-hard-soft-solutions-pvt-ltd-bengaluru-1-to-6-years-200726505109": {
+      "date": "2026-09-06T05:11:13.430Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Taurus Hard Soft Solutions",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-taurus-hard-soft-solutions-pvt-ltd-bengaluru-1-to-6-years-200726505109",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-nimblix-technologies-bengaluru-2-to-5-years-170626501120": {
+      "date": "2026-09-06T05:11:17.626Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Nimblix Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-nimblix-technologies-bengaluru-2-to-5-years-170626501120",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-retisio-commerce-retisio-bengaluru-2-to-4-years-170823501295": {
+      "date": "2026-09-06T05:13:15.669Z",
+      "source": "naukri",
+      "title": "Java Developer - RETISIO Commerce",
+      "company": "Retisio",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-retisio-commerce-retisio-bengaluru-2-to-4-years-170823501295",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-vaibhav-vyapaar-pvt-ltd-bengaluru-3-to-6-years-170424501556": {
+      "date": "2026-09-06T05:13:20.197Z",
+      "source": "naukri",
+      "title": "Java Developer",
+      "company": "Vaibhav Vyapaar",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-vaibhav-vyapaar-pvt-ltd-bengaluru-3-to-6-years-170424501556",
+      "notes": "External — apply manually"
+    },
+    "https://www.naukri.com/job-listings-java-developer-brigosha-technologies-bengaluru-3-to-5-years-130726502807": {
+      "date": "2026-09-06T05:13:24.695Z",
+      "source": "naukri",
+      "title": "JAVA Developer",
+      "company": "Brigosha Technologies",
+      "location": "Bengaluru",
+      "externalUrl": "https://www.naukri.com/job-listings-java-developer-brigosha-technologies-bengaluru-3-to-5-years-130726502807",
       "notes": "External — apply manually"
     }
   },

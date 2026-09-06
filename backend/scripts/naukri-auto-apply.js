@@ -27,8 +27,6 @@ const SEARCH_URLS_LIST = [
   'https://www.naukri.com/java-full-stack-developer-jobs-in-hyderabad?k=java+full+stack+developer&l=hyderabad&experience=2&jobAge=30',
   'https://www.naukri.com/spring-boot-developer-jobs-in-hyderabad?k=spring+boot+developer&l=hyderabad&experience=2&jobAge=30',
   'https://www.naukri.com/java-developer-jobs-in-hyderabad?k=java+developer&l=hyderabad&experience=2&jobAge=30',
-  'https://www.naukri.com/full-stack-developer-jobs-in-hyderabad?k=full+stack+developer&l=hyderabad&experience=2&jobAge=30',
-  'https://www.naukri.com/react-developer-jobs-in-hyderabad?k=react+developer&l=hyderabad&experience=2&jobAge=30',
   'https://www.naukri.com/java-react-developer-jobs-in-hyderabad?k=java+react&l=hyderabad&experience=2&jobAge=30',
   'https://www.naukri.com/spring-boot-microservices-jobs-in-hyderabad?k=spring+boot+microservices&l=hyderabad&experience=2&jobAge=30',
   'https://www.naukri.com/java-fullstack-jobs-in-hyderabad?k=java+fullstack&l=hyderabad&experience=2&jobAge=30',
@@ -38,15 +36,24 @@ const SEARCH_URLS_LIST = [
   'https://www.naukri.com/java-full-stack-developer-jobs-in-pune?k=java+full+stack+developer&l=pune&experience=2&jobAge=30',
   'https://www.naukri.com/java-full-stack-developer-jobs-in-chennai?k=java+full+stack+developer&l=chennai&experience=2&jobAge=30',
   'https://www.naukri.com/java-full-stack-developer-jobs?k=java+full+stack+developer&experience=2&jobAge=30',
-  'https://www.naukri.com/full-stack-engineer-jobs?k=full+stack+engineer&experience=2&jobAge=30',
   'https://www.naukri.com/java-spring-boot-react-jobs?k=java+spring+boot+react&experience=2&jobAge=30',
   'https://www.naukri.com/java-full-stack-developer-jobs?k=java+full+stack+developer&experience=1&jobAge=30',
   'https://www.naukri.com/java-developer-jobs?k=java+developer&experience=1&jobAge=30',
-  'https://www.naukri.com/full-stack-developer-jobs?k=full+stack+developer&experience=1&jobAge=30',
 ];
 // Kept for backward compat inside collectJobs
 const SEARCH_URL = SEARCH_URLS_LIST[0];
 const EXTERNAL_FILE = path.join(__dirname, '../data', 'naukri-external-jobs.json');
+
+// Strict Blacklist & Whitelist Regex to eliminate caller, BPO, data entry, and non-tech jobs
+const BLACKLIST_TITLE_REGEX = /\b(caller|telecaller|tele-caller|telesales|telemarketing|call\s*center|voice\s*process|non\s*voice|customer\s*(?:support|care|service)|chat\s*support|bpo|kpo|data\s*entry|back\s*office|computer\s*operator|typing|clerk|office\s*assistant|receptionist|front\s*desk|excel\s*operator|sales|business\s*development|bde|field\s*(?:sales|executive)|retail|accountant|tally|recruiter|hr\s*executive|talent\s*acquisition)\b/i;
+
+const WHITELIST_TITLE_REGEX = /\b(java|spring|spring\s*boot|full\s*stack|fullstack|backend|software\s*engineer|software\s*developer|sde)\b/i;
+
+function isTargetJob(title) {
+  if (!title) return false;
+  if (BLACKLIST_TITLE_REGEX.test(title)) return false;
+  return WHITELIST_TITLE_REGEX.test(title);
+}
 
 const PROFILE = {
   name: 'Manoj Ambati', email: 'ambatimanoj2469@gmail.com', phone: '9347946872',
@@ -60,6 +67,8 @@ function answerForQuestion(q) {
   const t = q.toLowerCase();
   if (/years?.*(experience|exp).*(java)/.test(t)) return PROFILE.javaExp;
   if (/years?.*(experience|exp).*(spring|spring boot)/.test(t)) return PROFILE.springBootExp;
+  if (/years?.*(experience|exp).*(microservices|micro\s*services)/.test(t)) return PROFILE.springBootExp;
+  if (/years?.*(experience|exp).*(hibernate|jpa)/.test(t)) return PROFILE.javaExp;
   if (/years?.*(experience|exp).*(react native|reactnative)/.test(t)) return PROFILE.defaultYears;
   if (/years?.*(experience|exp).*react/.test(t)) return PROFILE.reactExp;
   if (/years?.*(experience|exp).*(node|nodejs|node\.js)/.test(t)) return PROFILE.nodeExp;
@@ -124,9 +133,12 @@ async function collectJobs(page, target) {
       if (!pageJobs.length) break;
       let added = 0;
       for (const j of pageJobs) {
+        if (!isTargetJob(j.title)) {
+          continue;
+        }
         if (!jobs.has(j.url)) { jobs.set(j.url, j); added++; }
       }
-      console.log(`  [${new URL(baseUrl).searchParams.get('k')}] page ${p}: +${added} (total ${jobs.size})`);
+      console.log(`  [${new URL(baseUrl).searchParams.get('k')}] page ${p}: +${added} valid Java Full Stack jobs (total ${jobs.size})`);
       if (added === 0 && p > 1) break;
     }
   }
@@ -273,7 +285,7 @@ function saveExternalStore(arr) {
 (async () => {
   if (!EMAIL || !PASSWORD) { console.error('Missing NAUKRI_EMAIL/NAUKRI_PASSWORD in .env'); process.exit(1); }
   const userDataDir = path.join(os.tmpdir(), 'naukri-chrome-profile');
-  const isHeadless = process.env.HEADLESS !== 'false';
+  const isHeadless = process.env.HEADLESS === 'true';
   const context = await chromium.launchPersistentContext(userDataDir, {
     headless: isHeadless,
     channel: 'chrome',
@@ -289,7 +301,7 @@ function saveExternalStore(arr) {
   const externalStore = loadExternalStore();
   const externalUrls = new Set(externalStore.map((j) => j.applyUrl));
 
-  const summary = { applied: 0, external: 0, dedup_skip: 0, chatbot_unknown: 0, unknown: 0, no_apply_button: 0, already_applied: 0, error: 0 };
+  const summary = { applied: 0, external: 0, dedup_skip: 0, irrelevant_title_skip: 0, chatbot_unknown: 0, unknown: 0, no_apply_button: 0, already_applied: 0, error: 0 };
 
   try {
     await login(page);
@@ -302,6 +314,12 @@ function saveExternalStore(arr) {
       const job = allJobs[i];
       const tag = (job.title || '').slice(0, 40);
       console.log(`\n[${i + 1}/${allJobs.length}] ${tag} @ ${job.company}`);
+
+      if (!isTargetJob(job.title)) {
+        console.log(`  -> skipped (not Java Full Stack / blacklisted non-tech title: "${job.title}")`);
+        summary.irrelevant_title_skip++;
+        continue;
+      }
 
       if (tracker.has(job.url)) {
         const where = tracker.whereIs(job.url);
